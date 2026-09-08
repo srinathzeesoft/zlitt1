@@ -1,6 +1,6 @@
 {
   "address": "One Montgomery Street, Suite 2400, San Francisco, CA 94104",
-  "loading": "ロード中...",
+  "loading": "Chargement en cours…",
   "oops": "Oops, something went wrong...",
   "applyFor": "Apply for %{accountName}",
   "letsConfirm": "Let's confirm your identity for %{accountName}",
@@ -207,7 +207,7 @@
       "ArgyleForm": {
         "reviewResults": "Review results",
         "addManuallyBtn": "Add manually instead",
-        "learnMoreBtn": "詳細",
+        "learnMoreBtn": "En savoir plus",
         "argyleEmploymentFields": {
           "name": "Employer",
           "startDate": "From date",
@@ -215,7 +215,7 @@
           "contractType": "Contract type",
           "position": "Position",
           "unableToVerify": "Unable to verify",
-          "present": "現在"
+          "present": "Présent"
         },
         "addPosition": {
           "addYourPositionHeading": "Add your position",
@@ -238,8 +238,8 @@
           "selectVerifiedArgyleSingle": "Select an employment to include in your report.",
           "selectVerifiedArgyleMultiple": "Select employments to include in your report.",
           "jobTitlesLimited": "Job titles may be limited within payroll platforms. You'll be able to edit this in the next step if it doesn't look right.",
-          "accept": "同意",
-          "cancel": "キャンセル",
+          "accept": "Accepter",
+          "cancel": "Annuler",
           "foundHeading": "Here's what we found",
           "includeInHistory": "Include in history",
           "maxEmploymentsAddedTooltip": {
@@ -431,7 +431,7 @@
       "ordinal_9": "Tenth international address"
     },
     "InternationalLocationBoolean": {
-      "title": "ロケーション",
+      "title": "Localisation",
       "label": "Have you lived outside of the United States in the past 5 years?"
     },
     "InvestigativeDisclosure": {
@@ -549,7 +549,7 @@
       "nonElectronic": {
         "tag": "Paperwork will be mailed to you",
         "confirmation": {
-          "title": "実行しますか？",
+          "title": "Êtes-vous sûr?",
           "body": "We will need to mail the paperwork to you, which takes <strong>5-7 days</strong>. You will not be able to take your screening before you receive the paperwork.<br/><br/>If  you can make it to an electronic location, you can take the screening immediately."
         }
       },
@@ -558,7 +558,7 @@
         "screeningLocation": "Screening location",
         "businessHours": "Business hours",
         "passExpiration": "Pass expiration",
-        "status": "ステータス"
+        "status": "Statut"
       },
       "commonQuestions": {
         "title": "Common Questions",
@@ -595,16 +595,16 @@
       "selectFilesToUpload": "Select Files to Upload",
       "dragAndDrop": "or Drag and Drop, Copy and Paste Files",
       "selectedFiles": "Selected Files",
-      "upload": "アップロード",
-      "images": "画像",
+      "upload": "Télécharger",
+      "images": "Images",
       "deselectAll": "Deselect All",
-      "filter": "フィルター",
-      "files": "ファイル",
+      "filter": "Filtre",
+      "files": "Fichiers",
       "uploadMore": "Upload more",
       "viewEditSelected": "View/Edit Selected",
-      "uploading": "アップロードしています",
+      "uploading": "Téléchargement de",
       "uploaded": "Uploaded",
-      "completed": "完了済み",
+      "completed": "Terminé",
       "fileError": "File {displayName} is not an accepted file type. The accepted file types are {types}",
       "fileTooBig": "File {displayName} is too big. The accepted file size is less than {roundFileSize}",
       "searchImages": "Search images",
@@ -615,13 +615,13 @@
       "thisImageCannotBeEdited": "This image cannot be edited",
       "ourFileUploadLimit": "Our file upload limit is {maxFiles} {filesText}",
       "noSearchResults": "No search results found for {search}",
-      "next": "次へ",
+      "next": "Suivant",
       "dropYourFilesAnywhere": "Drop your files anywhere",
-      "done": "完了",
+      "done": "Fait",
       "failedWhileUploading": "Failed While Uploading",
-      "add": "追加",
+      "add": "Ajouter",
       "AnErrorOccurred": "An error occurred. Please try again.",
-      "reset": "リセット",
+      "reset": "Réinitialiser",
       "goBack": "Go back"
     },
     "WashingtonMvrDisclosure": {
@@ -676,13 +676,13 @@
     "labels": {
       "schoolState": "State or Province",
       "schoolName": "School or university name",
-      "employerName": "企業名",
+      "employerName": "Nom de la société",
       "addressState": "State or Province",
       "citizenship": "Country of citizenship",
       "countryCode": "Country of residence",
       "dob": "Date of birth ({{var}})",
       "internationalConsentForm": "International consent form",
-      "startDate": "開始:",
+      "startDate": "De :",
       "endDate": "To:",
       "idType": "ID type",
       "idNumber": "ID number",
@@ -690,7 +690,7 @@
       "idDocumentNumber": "ID number",
       "idDocumentType": "ID type",
       "state": "State/Province/Area",
-      "zipcode": "郵便番号",
+      "zipcode": "Code postal",
       "street": "Street address 1",
       "street2": "Street address 2",
       "position": "Most recent position held",
@@ -706,11 +706,11 @@
       "cityOfBirth": "City of birth",
       "countryOfBirth": "Country of birth",
       "phoneNumber": "Phone number",
-      "female": "女性",
-      "male": "男性",
-      "other": "その他",
+      "female": "Femme",
+      "male": "Homme",
+      "other": "Autre",
       "preferNotToSay": "Prefer not to say",
-      "number": "数字",
+      "number": "Nombre",
       "indexedNumber": "{{var}} Number",
       "nationalGovernmentID": "National or government ID",
       "visa": "Visa",
@@ -734,7 +734,7 @@
       "outOfCountryConsentForm": "Out of country consent form",
       "internationalConsentForm2": "International consent form2",
       "dbsEmploymentSector": "Employment sector",
-      "title": "件名",
+      "title": "Titre",
       "positionAppliedFor": "Position applied for",
       "nationalInsuranceNumber": "National insurance number",
       "passportExpirationDate": "Passport expiration date",
@@ -753,7 +753,7 @@
     },
     "placeholders": {
       "schoolName": "School or university name",
-      "employerName": "企業名",
+      "employerName": "Nom de la société",
       "dob": "DD/MM/YYYY",
       "startDate": "MM/YYYY",
       "endDate": "MM/YYYY",
@@ -802,7 +802,7 @@
       "grandfatherFirstName": "Grandfather first name",
       "maritalStatus": "Marital status",
       "dbsEmploymentSector": "Employment sector",
-      "title": "件名",
+      "title": "Titre",
       "positionAppliedFor": "Position applied for",
       "nationalInsuranceNumber": "National insurance number",
       "passportExpirationDate": "Passport expiration date",
@@ -878,8 +878,8 @@
         "electricity": "Electricity",
         "gas": "Gas",
         "water": "Water",
-        "telephone": "電話",
-        "mobilePhone": "携帯電話",
+        "telephone": "Téléphone",
+        "mobilePhone": "Téléphone portable",
         "tvLicence": "TV Licence",
         "bank": "Bank",
         "buildingSociety": "Building Society",
@@ -908,7 +908,7 @@
         "jobCentrePlus": "Job Centre Plus"
       },
       "licenseTypes": {
-        "unknown": "不明",
+        "unknown": "Inconnu",
         "paper": "Paper",
         "photo": "Photo"
       },
@@ -934,7 +934,7 @@
         "mr": "Mr",
         "mrs": "Mrs",
         "ms": "Ms",
-        "pastor": "牧師",
+        "pastor": "Pasteur",
         "professor": "Professor",
         "rabbi": "Rabbi",
         "revDr": "Rev Dr",
@@ -995,7 +995,7 @@
       "countries": {
         "england": "England",
         "northernIreland": "Northern Ireland",
-        "other": "その他",
+        "other": "Autre",
         "scotland": "Scotland",
         "wales": "Wales"
       },
@@ -1028,29 +1028,29 @@
     "addAddress": "Add Address",
     "applicantPaySubmit": "Place Order",
     "changeLocation": "Change Location",
-    "confirm": "確認",
-    "continue": "続行",
+    "confirm": "Confirmer",
+    "continue": "Continuer",
     "enterManually": "Enter manually",
     "getStarted": "Get started",
-    "hide": "非表示",
+    "hide": "Masquer",
     "incorrectInformation": "This isn't correct",
     "locationSearch": "Search near me",
     "noIHavent": "No, I haven't",
-    "no": "いいえ",
-    "notYou": "本人ではありませんか？",
-    "previous": "前",
-    "remove": "削除",
+    "no": "Non",
+    "notYou": "Ce n’est pas vous ?",
+    "previous": "Précédent",
+    "remove": "Supprimer",
     "removeDocuments": "Remove Documents",
-    "show": "表示",
+    "show": "Afficher",
     "submitting": "Submitting",
-    "submit": "送信",
+    "submit": "Envoyer",
     "scheduleTest": "Schedule Test",
     "scheduleVaccine": "Schedule Vaccine",
     "testForImmunity": "Test for Immunity",
     "tryAgain": "Try Again",
     "uploadDocumentation": "Upload Documentation",
-    "upload": "アップロード",
-    "yes": "はい",
+    "upload": "Télécharger",
+    "yes": "Oui",
     "yesIHave": "Yes, I have",
     "confirmLaterInPerson": "Confirm later in person",
     "continueWithYoti": "Continue with Yoti"
@@ -1066,7 +1066,7 @@
     "county": "Enter county name",
     "countyLocked": "Select a state first",
     "email": "name@email.com",
-    "employerName": "企業名",
+    "employerName": "Nom de la société",
     "phone": "(555) 555-5555",
     "sentence": "eg. $1,000 fine, 3 months county jail, etc.",
     "timeServed": "eg. 6 weeks county jail, 2 years state prison, etc.",
@@ -1084,10 +1084,10 @@
   },
   "labels": {
     "ordinalNumbers": {
-      "number_1": "第 1",
-      "number_2": "第 2",
-      "number_3": "第 3",
-      "number_4": "第 4",
+      "number_1": "Prénom",
+      "number_2": "Deuxième",
+      "number_3": "Troisième",
+      "number_4": "Quatrième",
       "number_5": "Fifth",
       "number_6": "Sixth",
       "number_7": "Seventh",
@@ -1096,15 +1096,15 @@
       "number_other": "%{count}th"
     },
     "attachedDocuments": "Attached document(s)",
-    "address": "住所",
+    "address": "Adresse",
     "birthCountry": "Country of birth",
     "birthPlace": "Place of birth",
     "citizenship": "Citizenship",
-    "city": "市町村",
+    "city": "Ville",
     "cityOfConviction": "City of conviction",
     "clinicAddress": "Clinic address",
     "contractType": "Contract type",
-    "country": "国",
+    "country": "Pays",
     "countryOfCitizenship": "Country of citizenship",
     "countryOfResidence": "Country of residence",
     "countyOfConviction": "County of conviction",
@@ -1120,29 +1120,29 @@
     "dob": "Date of birth",
     "driverLicenseNumber": "Driver license number",
     "driverLicenseProvince": "Driver License Province",
-    "email": "メール",
+    "email": "E-mail",
     "emailOptional": "Email (optional)",
     "employerDoNotContactHelpText": "<strong>Do not contact.</strong> Checking this box indicates that you do not want this employer to be contacted to verify your employment. Database searches will be used instead.",
-    "employerName": "企業名",
-    "employerStartDate": "開始日",
-    "employerToDate": "終了日",
+    "employerName": "Nom de la société",
+    "employerStartDate": "Date de début",
+    "employerToDate": "Date de fin",
     "employerState": "Company state",
-    "employerUrl": "企業のウェブサイト",
+    "employerUrl": "Site Internet de la société",
     "employerUrlOptional": "Company website (optional)",
     "employmentGapNote": "Why did you take an employment gap? How did you spend your time? What did you learn or what are you most proud of?",
     "employmentConfirmFullLookback": "<strong>Your employment history does not meet the minimum %{lookbackYears} years required for this position</strong>. There are periods which are unaccounted for. By checking this box, you confirm that there are no missing job positions, and that Checkr can treat the unallocated periods as employment gaps.",
-    "endDate": "終了日",
+    "endDate": "Date de fin",
     "endDateOptional": "End date (optional)",
     "fatherName": "Father's Full Name",
     "firstName": "First name",
-    "from": "開始",
+    "from": "De",
     "fullName": "Full name",
     "gedDiplomaImg": "Please upload a copy of your GED if you have it. Without this, you will be subject to very long delays or potentially adverse action.",
-    "gender": "性別",
+    "gender": "Sexe",
     "hello": "Hello",
     "highSchoolDiplomaImg": "Please upload a copy of your high school diploma if you have it. Without this, you will be subject to very long delays or potentially adverse action.",
     "lastName": "Last name",
-    "location": "ロケーション",
+    "location": "Localisation",
     "mailingAddress": "Mailing address",
     "managerEmail": "Contact email",
     "managerName": "Contact name",
@@ -1153,7 +1153,7 @@
     "mitigatingFactorsSimple": "Describe the conviction",
     "mobilePhone": "Mobile phone number",
     "motherMaidenName": "Mother's maiden name",
-    "name": "名前",
+    "name": "Nom",
     "nameOnDiploma": "Name on diploma",
     "nameOnDiplomaOptional": "Name on diploma (optional)",
     "nameOnGED": "Name on GED",
@@ -1173,13 +1173,13 @@
     "phoneOptional": "Phone number (optional)",
     "position": "Last position held",
     "postalCode": "Postal code",
-    "present": "現在",
+    "present": "Présent",
     "province": "Province",
     "referenceRelationship": "Reference relationship",
     "required": "(required)",
     "residentFrom": "Resident from",
     "salary": "Annual salary",
-    "schoolCity": "市町村",
+    "schoolCity": "Ville",
     "schoolCurrent": "I am currently pursuing this degree",
     "schoolDegree": "Education level",
     "schoolMajor": "Major",
@@ -1188,7 +1188,7 @@
     "schoolName": "School or university name",
     "schoolNameHighSchool": "High school name",
     "schoolNameUniversity": "College or university name",
-    "schoolState": "状態",
+    "schoolState": "État",
     "schoolUrl": "School website",
     "schoolUrlOptional": "School website (optional)",
     "sentence": "Sentenced to",
@@ -1197,13 +1197,13 @@
     "ssnConfirmation": "Confirm social security number",
     "startDate": "Start date",
     "startDateOptional": "Start date (optional)",
-    "state": "状態",
+    "state": "État",
     "stateInternational": "State / Province / Area",
     "stateOfConviction": "State of conviction",
-    "street": "所在地住所",
+    "street": "Rue",
     "testingSiteGED": "Testing site",
     "timeServed": "Time served (if applicable)",
-    "toDate": "終了",
+    "toDate": "À",
     "uploadEduDocs": "Providing documents of proof can help expedite the process and help prevent potential adverse action.",
     "uploadEmploymentDocs": {
       "default": "<span class=\"h6\">Verify employment by document</span>:<br/>Accepted documents include W-2, 1099, or paystub. Documents must reflect the employer name and will only be used for verification purposes.",
@@ -1260,7 +1260,7 @@
       "seasonal": "Seasonal",
       "selfEmployed": "Self-Employed",
       "temporary": "Temporary",
-      "other": "その他"
+      "other": "Autre"
     },
     "degrees": {
       "highSchool": "High School",
@@ -1281,7 +1281,7 @@
       "jurisDoctorate": "Juris Doctorate (J.D.)",
       "doctorOfDentalSurgery": "Doctor of Dental Surgery (D.D.S.)",
       "doctorOfPharmacy": "Doctor of Pharmacy (Pharm.D.)",
-      "other": "その他"
+      "other": "Autre"
     },
     "months": {
       "january": "1 - January",
@@ -1300,7 +1300,7 @@
     "selfDisclosureOffenseLevels": {
       "felony": "Felony",
       "misdemeanor": "Misdemeanor",
-      "other": "その他"
+      "other": "Autre"
     }
   },
   "pages": {
@@ -1314,7 +1314,7 @@
     "education": "Education",
     "employment": "Employment",
     "fairChanceOrdinance": "Additional Notices",
-    "info": "情報",
+    "info": "Infos",
     "internationalAuthorization": "International Authorization",
     "investigativeDisclosure": "Investigative Disclosure",
     "nyArticle23a": "Article 23-A",
@@ -1323,14 +1323,14 @@
     "references": "References",
     "thankYou": "Thank You",
     "authenticateInvitationForm": "Welcome",
-    "confirmInformation": "確認",
+    "confirmInformation": "Confirmer",
     "washingtonMvrDisclosure": "Washington Disclosure",
     "puertoRicoMvrAuthorization": "Puerto Rico Authorization",
     "welcome": "Welcome",
     "yourRights": "Your Rights",
     "healthScreeningConfiguration": "Health Screening",
     "proLicenseVerification": "Professional License Verification",
-    "information": "情報",
+    "information": "Informations",
     "identityDocumentValidation": "Identity Document Validation",
     "identity_document_validation": "Identity Document Validation",
     "electronicConsentForm": "Electronic consent form",
@@ -1416,10 +1416,10 @@
       "thanksForSubmitting": "Checkr will notify you when your background check is complete, or if any further action is needed on your part. View the <a href='{{var}}' target='_blank' rel='noopener noreferrer'>status of your background check</a> at anytime."
     },
     "navigation": {
-      "back": "戻る",
-      "save": "保存",
-      "submit": "送信",
-      "continue": "続行",
+      "back": "Retour",
+      "save": "Sauvegarder",
+      "submit": "Envoyer",
+      "continue": "Continuer",
       "submitAndContinue": "Submit and Continue"
     },
     "stateLogin": {
@@ -1433,7 +1433,7 @@
       "pleaseFillYourInformation": "Please fill in your information below and we will look for your application so you can continue where you left off.",
       "personalInformation": "Personal Information",
       "dualCitizens": "Dual citizens: Choose your preferred citizenship",
-      "continue": "続行",
+      "continue": "Continuer",
       "errorTitle": "Whoops!"
     },
     "stateToastSuccess": {
@@ -1450,13 +1450,13 @@
     "signature": {
       "electronicSignature": "Electronic Signature",
       "byTypingMyName": "By typing my name below, I consent to having Checkr Inc., its affiliates, and its third-party agents, collect and process certain Personal Data about me for the purposes of completing my background check.",
-      "fullName": "氏名"
+      "fullName": "Nom complet"
     },
     "downloadAcknowledgement": {
-      "download": "ダウンロード"
+      "download": "Télécharger"
     },
     "instructions": {
-      "download": "ダウンロード"
+      "download": "Télécharger"
     },
     "requiredFieldAsterisk": {
       "requiredField": "* denotes required field"
@@ -1467,7 +1467,7 @@
       "recordSuspension": "By clicking this, you certify that you have never been convicted of a crime in Canada, for which you have not received a pardon or record suspension.",
       "noOtherNames": "By clicking this, you certify that there are no other names that you have legally held (maiden name, aliases, etc).",
       "addAnother": "Add another",
-      "remove": "削除",
+      "remove": "Supprimer",
       "formValidationError": "Form Validation Error"
     },
     "addressField": {
@@ -1488,7 +1488,7 @@
         "qualifiedTitle": "This country qualifies for quick verification",
         "m1RequiredTime": "30-90 seconds",
         "m1LoginMessage": "Log in using your school username and password to quickly verify your education.",
-        "m1LearnMoreModalButton": "詳細",
+        "m1LearnMoreModalButton": "En savoir plus",
         "m1LoginButton": "Go to log in",
         "manualInfoTitle": "Prefer to enter information yourself?",
         "manualInfoButton": "Go to enter information",
@@ -1521,12 +1521,12 @@
           "cancelAndEnterInformationButton": "Cancel and enter information",
           "schoolOrUniversity": "School or university",
           "startDate": "Start date",
-          "endDate": "終了日",
-          "status": "ステータス",
+          "endDate": "Date de fin",
+          "status": "Statut",
           "degree": "Degree",
           "major": "Major",
           "enterInformationButton": "Enter Information",
-          "acceptButton": "同意"
+          "acceptButton": "Accepter"
         },
         "m1SchoolNotSupportedModal": {
           "headerTitle": "Search result",
@@ -1557,8 +1557,8 @@
     },
     "saveStateForm": {
       "header": {
-        "aboutUs": "当社について",
-        "contactUs": "お問い合わせ",
+        "aboutUs": "À propos de nous",
+        "contactUs": "Nous contacter",
         "checkr": "Checkr.com"
       }
     },
@@ -1609,7 +1609,7 @@
     "candidateLastNameNameContainsInvalidCharacters": "Candidate last name contains invalid characters",
     "candidateLastNameMustContainAtLeast2AlphaCharacters": "Candidate last name must contain at least 2 alpha characters",
     "failedToUpdateCandidateLocale": "Failed to update candidate locale",
-    "failedToUpdate": "更新に失敗しました",
+    "failedToUpdate": "Failed to update",
     "candidateMiddleNameNameContainsInvalidCharacters": "Candidate middle name contains invalid characters",
     "candidateAddressCityCantBeBlank": "Candidate address city can't be blank",
     "candidateAddressCountryCodeCantBeBlank": "Candidate address country code can't be blank",
