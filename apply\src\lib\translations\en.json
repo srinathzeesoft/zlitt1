@@ -1,0 +1,1626 @@
+{
+  "address": "One Montgomery Street, Suite 2400, San Francisco, CA 94104",
+  "loading": "ロード中...",
+  "oops": "Oops, something went wrong...",
+  "applyFor": "Apply for %{accountName}",
+  "letsConfirm": "Let's confirm your identity for %{accountName}",
+  "checkrLogo": "Checkr logo",
+  "companyLogo": "Company logo",
+  "components": {
+    "Addresses": {
+      "Add": "Add an address"
+    },
+    "ApplicantInformationForm": {
+      "additionalText": "Please submit your full legal name Please submit your full legal name Please submit your full legal name Please submit your full legal name",
+      "lockedAdditionalText": "If a locked field contains an error, please click the \"This isn't correct\" button below.",
+      "title": "Personal information"
+    },
+    "ApplyForm": {
+      "sumbitErrors": {
+        "candidateMatchesAProtectProfile": {
+          "title": "Oh no! Something is amiss…",
+          "message": "<p>We were unable to complete your background check with the information that you provided. To proceed, please contact %{accountName}.<p> <p>We were unable to complete your background check with the information that you provided. To proceed, please contact %{accountName}.<p>"
+        }
+      }
+    },
+    "ApiStatusBanner": {
+      "singleIncident": "System incident: %{incidentName} - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details.",
+      "multipleIncident": "System incident: Checkr is currently experiencing some technical difficulties - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details. System incident: Checkr is currently experiencing some technical difficulties - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details. System incident: Checkr is currently experiencing some technical difficulties - See our <a href='https://checkrstatus.com/' target='_blank' rel='noopener noreferrer'>status page</a> for more details."
+    },
+    "AuthenticateInvitationForm": {
+      "title": "Verify Identity"
+    },
+    "Article23aDisclosure": {
+      "title": "Article 23-A",
+      "label": "I have read and understand my rights regarding Article 23-A of the NY Corrections Law."
+    },
+    "CaliforniaDisclosure": {
+      "title": "California Disclosure",
+      "checkrLogo": "Checkr logo",
+      "companyLogo": "Company logo",
+      "label": "I acknowledge receipt of the California Disclosure and certify that I have read and understand this document."
+    },
+    "CDLISConsent": {
+      "title": "CDLIS Consent",
+      "label": "By checking this box, I hereby authorize %{company} to request or access data pertaining to me within the Commercial Driver License Information System maintained by the American Association of Motor Vehicle Administrators (those data, “CDLIS Data”), to obtain all CDLIS Data relating to me, and to request and obtain my driver record from the jurisdiction identified in the CDLIS Data in accordance with applicable state law and the federal Driver’s Privacy Protection Act. I hereby further authorize the disclosure of my CDLIS Data and driver record to Checkr and %{company}."
+    },
+    "CitizenshipInformation": {
+      "title": "Citizenship Information",
+      "dualCitizenship": "Dual citizens: Choose your preferred citizenship"
+    },
+    "ConfirmInformation": {
+      "title": "Confirm Information"
+    },
+    "ConsentForm": {
+      "header": "Upload consent document",
+      "title": "Candidate Consent",
+      "text": "Proof of the candidate's consent is <strong>required</strong> by many educational institutions and employers in order to release candidate information. The document that you upload will be sent to the school and/or employer to expedite the verification process.",
+      "footer": "Please upload a document showing proof of consent to continue."
+    },
+    "ContactInformationForm": {
+      "title": "Contact information",
+      "mobilePhoneRequest": "Checkr will contact you through text and email to complete any additional steps required for your background check."
+    },
+    "CreditReportDisclosure": {
+      "title": "Credit report disclosure",
+      "label": "I acknowledge receipt of the Disclosure Regarding Background Investigation and certify that I have read and understand this document."
+    },
+    "CriminalSelfDisclosure": {
+      "title": "Self Disclosure Questionnaire",
+      "toggleText": "Have you ever been convicted of or entered a guilty plea to a crime?",
+      "addEntry": "Add conviction",
+      "header": "Please provide details for each misdemeanor or felony for which you answered “Yes”. If you have multiple convictions, please disclose them separately.",
+      "instructions": {
+        "title": "Instructions for answering this question",
+        "label": "I understand my rights regarding criminal self-disclosure."
+      }
+    },
+    "CurrentAddressForm": {
+      "default": "Current address Current address Current address",
+      "mailing": "Mailing address Current address Current address"
+    },
+    "Disclosure": {
+      "title": "Disclosure",
+      "label": "I acknowledge receipt of the Disclosure Regarding Background Investigation and certify that I have read and understand this document."
+    },
+    "DotDisclosure": {
+      "text": "I hereby authorize release of information from my Department of Transportation regulated drug and alcohol testing records by my previous I hereby authorize release of information from my Department of Transportation regulated drug and alcohol testing records by my I hereby authorize release of information from my Department of Transportation regulated drug and alcohol testing records by my I hereby authorize release of information from my Department of Transportation regulated drug and alcohol testing records by myemployer to the employer listed. This release is in accordance with DOT Regulation 49 CFR Part 40, Section 40.25. I understand that information to be released in Section II-A by my previous employer, is limited to the following DOT-regulated testing items:",
+      "ordinal_0": "Alcohol tests with a result of 0.04 or higher;",
+      "ordinal_1": "Verified positive drug tests;",
+      "ordinal_2": "Refusals to be tested;",
+      "ordinal_3": "Other violations of DOT agency drug and alcohol testing regulations;",
+      "ordinal_4": "Information obtained from previous employers of a drug and alcohol rule violation;",
+      "ordinal_5": "Documentation, if any, of completion of the return-to-duty process following a rule violation."
+    },
+    "DriverLicenseForm": {
+      "title": "Driver license"
+    },
+    "MvrAdditionalDetailsComponent": {
+      "title": "Puerto Rico details",
+      "notification": "We noticed you selected Puerto Rico for your drivers license state. Puerto Rico requires additional information shown below.",
+      "piiTitle": "Personal information",
+      "addressTitle": "Current Address",
+      "uploadDriverLicense": {
+        "title": "Upload drivers license image",
+        "prompt": "Please upload an image of the front of your valid drivers license.",
+        "subheader": "Your image must:",
+        "instructions": "<li>Be your state issued drivers license</li><li>Be valid and not expired</li><li>Have all 4 corners showing</li><li>Be in color</li><li>Be clear and readable</li>",
+        "uploadButtonText": "Upload drivers license"
+      }
+    },
+    "EducationInformationForm": {
+      "candidateDisclosurePrompt": "We recommend removing any non-relevant information, such as your grades, before uploading your documents because the company you applied to may view them.",
+      "title": "Highest completed education",
+      "instructions": "Please fill out information for the highest level degree or certification you have earned.",
+      "noSchoolWarning": "To reduce delays in processing, please select a known school directly from our list if possible.",
+      "educationInputBestPracticeSuggestion": "Please enter the school name exactly as it appears on your official documents (ex: a degree, diploma, or transcript)."
+    },
+    "ExpungementConsent": {
+      "title": "Authorization",
+      "label": "I authorize Checkr to conduct a background check on me for the purpose of identifying records that may qualify for expungement. I understand that this is not a consumer report as defined by the FCRA and is not to be used for any other purpose.<br/><br/>By clicking \"Submit\", I agree to Checkr’s <a href=\"https://checkr.com/privacy-policy\" target=\"_blank\">Privacy Policy</a> and <a href=\"https://checkr.com/terms-of-service\" target=\"_blank\">Terms of Service</a>."
+    },
+    "ExpungementHeader": {
+      "title": "Expungements"
+    },
+    "ExtendedEducationInformationForm": {
+      "title": "Education History",
+      "withVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "Have you studied anywhere else in the United States within the last year?",
+          "withOtherDefinedLookback": "Have you studied anywhere else in the United States within the last %{lookback} years?",
+          "withoutDefinedLookback": "Have you studied anywhere else in the United States?"
+        },
+        "context": "Please provide any additional education history. The information you provide will be used for the purpose of running a background check."
+      },
+      "withoutVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "Have you studied in the United States within the last year?",
+          "withOtherDefinedLookback": "Have you studied in the United States within the last %{lookback} years?",
+          "withoutDefinedLookback": "Have you studied in the United States?"
+        },
+        "context": "Please provide any education history. The information you provide will be used for the purpose of running a background check."
+      },
+      "currentPlacement": "Current student",
+      "entity": "School/University",
+      "addEntry": "Add school or university"
+    },
+    "ExtendedEmploymentHistoryForm": {
+      "title": "Employment History",
+      "ordinal_0": "Most recent school",
+      "ordinal_1": "Second school",
+      "ordinal_2": "Third school",
+      "ordinal_3": "Fourth school",
+      "ordinal_4": "Fifth school",
+      "ordinal_5": "Sixth school",
+      "ordinal_6": "Seventh school",
+      "ordinal_7": "Eighth school",
+      "ordinal_8": "Ninth school",
+      "ordinal_9": "Tenth school",
+      "withVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "Have you been employed anywhere else in the United States within the last year?",
+          "withOtherDefinedLookback": "Have you been employed anywhere else in the United States within the last %{lookback} years?",
+          "withoutDefinedLookback": "Have you been employed anywhere else in the United States?"
+        },
+        "context": "Please provide any additional employment history. The information you provide will be used for the purpose of running a background check. "
+      },
+      "withoutVerification": {
+        "expandPrompt": {
+          "with1YearLookback": "Have you been employed in the United States within the last year?",
+          "withOtherDefinedLookback": "Have you been employed in the United States within the last %{lookback} years?",
+          "withoutDefinedLookback": "Have you been employed in the United States of America?"
+        },
+        "context": "Please provide any employment history. The information you provide will be used for the purpose of running a background check."
+      },
+      "currentPlacement": "Current employee",
+      "entity": "Employer",
+      "addEntry": "Add employer"
+    },
+    "Employer": {
+      "contactInstructions": "Please provide the following contact information to verify your employment.",
+      "ordinal_0": "Most recent employer",
+      "ordinal_1": "Second employer",
+      "ordinal_2": "Third employer",
+      "ordinal_3": "Fourth employer",
+      "ordinal_4": "Fifth employer",
+      "ordinal_5": "Sixth employer",
+      "ordinal_6": "Seventh employer",
+      "ordinal_7": "Eighth employer",
+      "ordinal_8": "Ninth employer",
+      "ordinal_9": "Tenth employer",
+      "ordinal_other": "{{count}}th employer",
+      "endDateOutOfRange": "This employer falls outside of the requested %{lookbackYears} year history period. Please edit the date fields, or the employer will not be included as part of your employment verification."
+    },
+    "Employers": {
+      "Add_other": "Add another employer",
+      "Add_1": "Add second employer",
+      "Add_2": "Add third employer",
+      "Add_3": "Add fourth employer",
+      "Add_4": "Add fifth employer",
+      "Add_5": "Add sixth employer",
+      "Add_6": "Add seventh employer",
+      "Add_7": "Add eighth employer",
+      "Add_8": "Add ninth employer",
+      "Add_9": "Add tenth employer"
+    },
+    "EmploymentForm": {
+      "ArgyleForm": {
+        "reviewResults": "Review results",
+        "addManuallyBtn": "Add manually instead",
+        "learnMoreBtn": "詳細",
+        "argyleEmploymentFields": {
+          "name": "Employer",
+          "startDate": "From date",
+          "endDate": "To date",
+          "contractType": "Contract type",
+          "position": "Position",
+          "unableToVerify": "Unable to verify",
+          "present": "現在"
+        },
+        "addPosition": {
+          "addYourPositionHeading": "Add your position",
+          "addYourPositionSubheading": "We verified your employment but were unable to find your job title. Please enter it below to complete verification.",
+          "lastPositionHeld": "Last position held",
+          "lastPositionHeldPlaceholder": "ex: lead salesperson"
+        },
+        "editPosition": {
+          "editYourPositionHeading": "Edit your position at {{var}} (optional)",
+          "editYourPositionSubheading": "Job titles may be limited within payroll platforms. If yours doesn't look right, you can enter the correct title here.",
+          "lastPositionHeld": "Last position held"
+        },
+        "reviewComponents": {
+          "addedManually": "Added manually",
+          "manualEntryTitle": "Manual entry #{{var}}",
+          "manualRemovalWarning": "If unselected, manually added employments will be removed from your history.",
+          "noInfoAdded": "No employment information added",
+          "selectOne": "{{var}} requires one employment history. Please select one position to include.",
+          "selectUpToLimit": "{{var}} requires {{var2}} or fewer employment histories. Please select {{var2}} or fewer positions to include.",
+          "selectVerifiedArgyleSingle": "Select an employment to include in your report.",
+          "selectVerifiedArgyleMultiple": "Select employments to include in your report.",
+          "jobTitlesLimited": "Job titles may be limited within payroll platforms. You'll be able to edit this in the next step if it doesn't look right.",
+          "accept": "同意",
+          "cancel": "キャンセル",
+          "foundHeading": "Here's what we found",
+          "includeInHistory": "Include in history",
+          "maxEmploymentsAddedTooltip": {
+            "heading": "Maximum employments added",
+            "details": "You can only select a maximum of {{var}} employments. You can add this one by removing one of your current selections."
+          },
+          "verifiedWithArgyle": "Verified with Argyle",
+          "unableToAddHeading": "Unable to add",
+          "unverifiedSingle": "We couldn't verify this employment with Argyle. You can still add it manually.",
+          "unverifiedMultiple": "We couldn't verify these employments with Argyle. You can still add them manually.",
+          "outsideLookbackSingle": "This employment is outside of the {{var}}-year window.",
+          "outsideLookbackMultiple": "These employments are outside of the {{var}}-year window."
+        },
+        "loadingModal": {
+          "loadingHeader": "We’re verifying your employment",
+          "loadingText": "Hold tight while we gather the rest of your information. This takes about 30 seconds."
+        },
+        "learnMoreModal": {
+          "header": "Quick Verification",
+          "body": {
+            "howItWorks": "How it works",
+            "connect": {
+              "header": "Connect your employer",
+              "subtext": "You’ll access your employment history by logging in through your employer portal or payroll platform."
+            },
+            "reviewAndVerify": {
+              "header": "Review and verify",
+              "subtext": "You’ll review the information we’ve verified and approve what is shared."
+            },
+            "whatIsArgyle": {
+              "header": "What is Argyle?",
+              "subtext": "Argyle connects to over 85% of the US workforce. With your permission, Argyle can securely access your employment history and share it with Checkr."
+            },
+            "yourData": {
+              "header": "Your data",
+              "subtext": "Argyle adheres to military-grade encryption with secure storage protocols to protect your personal information. Learn more about how it works <a href='{{var}}' target='_blank'>here</a>, and view Argyle’s End User Terms <a href='{{var2}}' target='_blank'>here</a>.",
+              "howItWorksUrl": "https://argyle.com/legal/consumers/how-it-works/",
+              "endUserTermsUrl": "https://argyle.com/legal/consumers/end-user-terms/"
+            }
+          },
+          "buttonText": "Got it"
+        },
+        "linkErrorModal": {
+          "headerText": "Unable to load quick verification",
+          "bodyText": "You can try again later or enter your information manually instead.",
+          "buttonText": "Okay"
+        },
+        "selectionTatTooltipText": "Average time to complete verification",
+        "selectionComponents": {
+          "quick": {
+            "header": "Quick verification",
+            "boldText": "<strong>Connect your most recent employer.</strong>",
+            "bodyText": "Your employer will <strong>not</strong> be notified of the verification.&nbsp;",
+            "buttonText": "Get started",
+            "timeToCompletion": "1-2 minutes",
+            "disclosureText": "By selecting \"Get started\" you agree to <a href='{{var}}' target='_blank'>Argyle's End User Terms</a> and <a href='{{var2}}' target='_blank'>Privacy Notice</a>.",
+            "endUserTermsUrl": "https://argyle.com/legal/consumers/end-user-terms/",
+            "privacyNoticeUrl": "https://argyle.com/legal/consumers/privacy-notice/"
+          },
+          "manual": {
+            "header": "Manual entry",
+            "boldText": "<strong>Provide information and documents.</strong>",
+            "bodyText": "We'll manually review what you submit to verify your employment.",
+            "buttonText": "Enter manually",
+            "timeToCompletion": "1-4 days"
+          },
+          "tatToolTipText": "Average time to complete verification"
+        },
+        "timeoutModal": {
+          "headerText": "Sorry, something went wrong",
+          "bodyText": "We’re having trouble getting your employment information from Argyle right now. Please input your history manually."
+        },
+        "verifyEmploymentDetailedText": {
+          "part1": "You can enter your information and submit it for review using the form below or try to",
+          "part2": "connect your employer",
+          "part3": "automatically with Argyle."
+        }
+      },
+      "candidateDisclosurePrompt": "We recommend removing any non-relevant information, such as your salary, before uploading your documents because the company you applied to may view them.",
+      "countryQuestion": "In what country were you last employed?",
+      "title": "Employment history",
+      "instructions": {
+        "oneYear": {
+          "allEmployers": "Provide details for positions from your last year of employment.",
+          "oneEmployer": "Provide details for 1 position from your last year of employment.",
+          "manyEmployers": "Provide details for up to %{maximumAllowedEmployers} positions from your last year of employment."
+        },
+        "manyYears": {
+          "allEmployers": "Provide details for positions from your last %{lookbackYears} years of employment.",
+          "oneEmployer": "Provide details for 1 position from your last %{lookbackYears} years of employment.",
+          "manyEmployers": "Provide details for up to %{maximumAllowedEmployers} positions from your last %{lookbackYears} years of employment."
+        }
+      },
+      "employerRequired": "%{accountName} requires you to provide employment history within the last %{lookbackYears} year(s) in order to continue. If you do not have any employment history within the last %{lookbackYears} year(s), please contact your potential employer, %{accountName}, directly.",
+      "verifyEmploymentText": "Verify your employment",
+      "verifyEmploymentDetailedText": "Enter your information below so Checkr can verify your employment.",
+      "employerInputBestPracticeSuggestion": "Please enter the company name exactly as it appears on your official documents (ex: a paystub, W-2, or 1099)."
+    },
+    "EmploymentGap": {
+      "gap": "Gap",
+      "ordinal_0": "Most recent employment gap",
+      "ordinal_1": "Second employment gap",
+      "ordinal_2": "Third employment gap",
+      "ordinal_3": "Fourth employment gap",
+      "ordinal_4": "Fifth employment gap",
+      "ordinal_5": "Sixth employment gap",
+      "ordinal_6": "Seventh employment gap",
+      "ordinal_7": "Eighth employment gap",
+      "ordinal_8": "Ninth employment gap",
+      "ordinal_9": "Tenth employment gap",
+      "ordinal_other": "{{count}}th employment gap",
+      "Add_other": "Add another employment gap",
+      "Add_0": "Add an employment gap",
+      "Add_1": "Add second employment gap",
+      "Add_2": "Add third employment gap",
+      "Add_3": "Add fourth employment gap",
+      "Add_4": "Add fifth employment gap",
+      "Add_5": "Add sixth employment gap",
+      "Add_6": "Add seventh employment gap",
+      "Add_7": "Add eighth employment gap",
+      "Add_8": "Add ninth employment gap",
+      "Add_9": "Add tenth employment gap"
+    },
+    "ErrorPage": {
+      "title": "Oops, something went wrong..."
+    },
+    "FairChanceDisclosure": {
+      "title": "Fair Chance Ordinance Notice",
+      "label": "I have read and understand my rights regarding Fair Chance Ordinance Notice."
+    },
+    "FCRA": {
+      "title": "Summary of Your Rights",
+      "label": "I acknowledge receipt of the Summary of Your Rights Under the Fair Credit Reporting Act (FCRA) and certify that I have read and understand this document."
+    },
+    "footer": {
+      "faq": "FAQs",
+      "tel": "(844) 824 3257",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service",
+      "address": "One Montgomery Street, Suite 2400, San Francisco, CA 94104"
+    },
+    "Health": {
+      "instructions": {
+        "header": "Occupational Health Screenings",
+        "body": "The company you are applying to requires you to provide the following Health Checks. You may either upload proof of completion for these tests, or schedule them."
+      },
+      "exams": {
+        "header": "Health Screening Information",
+        "options": {
+          "uploadProof": "Required to upload proof"
+        }
+      },
+      "noExamSelected": "Tests/exams have not been selected, please select exams to continue."
+    },
+    "HealthScreenConsent": {
+      "title": "Health Screening Authorization",
+      "label": "I hereby authorize Checkr and its vendors to release to %{company} its designated agents, including Medical Review Officers, the results of the laboratory tests to which I have consented to for the purpose of determining the presence of drugs and/or alcohol in my body in connection with my application for employment. I understand and agree that %{company} will review the results of these tests in connection with making a decision concerning my potential employment. This authorization shall become effective immediately and remain in effect for one year. I understand that I have the right to receive a copy of this authorization upon request."
+    },
+    "Hello": {
+      "welcome": "Welcome to Checkr",
+      "message1": "If you would like to join our team, please go to",
+      "message2": "to check out our job opportunities.",
+      "message3": "If you're applying to work for another company, please contact them for the link to start your background check."
+    },
+    "HipaaPrivacyConsent": {
+      "title": "Authorization for use & disclosure of your health information",
+      "label": "I voluntarily consent to and authorize the use and disclosure of the information provided here to %{companyName}. I certify that the information is correct, and understand that it may be used as part of my evaluation by %{companyName}. I understand that this information may be redisclosed to third parties."
+    },
+    "InlineConsent": {
+      "title": "Authorization",
+      "label": "By checking this box, I confirm that I authorize Checkr to obtain my driving record."
+    },
+    "InternationalAuthorizationForm": {
+      "title": "International Authorization",
+      "label": "Please confirm you have read and agree to the above document."
+    },
+    "InternationalAddressHistoryForm": {
+      "title": "Address History Outside of the United States",
+      "instructions": "Please provide your address history <strong>outside of the United States</strong> for the past 5 years",
+      "ordinal_0": "Most recent international address",
+      "ordinal_1": "Second international address",
+      "ordinal_2": "Third international address",
+      "ordinal_3": "Fourth international address",
+      "ordinal_4": "Fifth international address",
+      "ordinal_5": "Sixth international address",
+      "ordinal_6": "Seventh international address",
+      "ordinal_7": "Eighth international address",
+      "ordinal_8": "Ninth international address",
+      "ordinal_9": "Tenth international address"
+    },
+    "InternationalLocationBoolean": {
+      "title": "ロケーション",
+      "label": "Have you lived outside of the United States in the past 5 years?"
+    },
+    "InvestigativeDisclosure": {
+      "title": "Investigative Disclosure",
+      "label": "I acknowledge receipt of the Investigative Disclosure Regarding Background Investigation and certify that I have read and understand this document."
+    },
+    "MailingAddressInfo": {
+      "title": "Enter Your Address",
+      "bloodDrawServiceCopy": "New regulations from state health departments and the CDC require a street address for people undergoing certain blood-based services. This address is used only to track communicable disease outbreaks, if applicable.",
+      "nonElectronicLocationCopy": "Based on the location you have chosen we will mail you the required paperwork for completing your screening. If you prefer to complete your screening faster, choose an alternate location."
+    },
+    "ManualOrderConsent": {
+      "title": "Authorization",
+      "label": "By checking this box, I certify that: (1) this request for a background check report is made in connection with an employment purpose and no other purpose; (2) I have provided the consumer with disclosures relating to the background check, and obtained the consumer’s written authorization to obtain the report and to dispatch notices electronically, including SMS messages where applicable; (3) The disclosure and authorization forms have been reviewed by my company and legal counsel and satisfy all Fair Credit Reporting Act and other legal requirements, including a clear and conspicuous disclosure in a document that consists solely of the disclosure; (4) I understand my obligations, have complied with, and will comply with all applicable laws pertaining to Consumer Reports/Investigative Consumer Reports as defined in the Fair Credit Reporting Act as amended; (5) the report will not be used in violation of any applicable federal or state equal employment opportunity law or regulation, and its use will comply with all applicable laws; and (6) have received appropriate authorization for the transfer of the individual’s personal and criminal information outside the EU where applicable."
+    },
+    "ManualOrderCandidateCopy": {
+      "title": "Candidate copy",
+      "label": "Send background report to candidate once completed."
+    },
+    "LocalDisclosure": {
+      "title": "Credit Disclosure",
+      "label": "I acknowledge receipt of the Notice Regarding Credit Checks Per %{location} Law and certify that I have read and understand this document."
+    },
+    "PassportForm": {
+      "title": "Passport",
+      "alert": "Please provide a copy of your <strong>passport</strong>."
+    },
+    "PaymentForm": {
+      "title": "Payment",
+      "label": "<strong>By checking this box, I authorize payment in the amount of $%{price} to be made to Checkr, Inc. I acknowledge that once a background check has been initiated, no refunds will be available.</strong>"
+    },
+    "PersonalReferenceForm": {
+      "title": "Personal reference"
+    },
+    "ProLicenseVerificationForm": {
+      "certification": "%{ordinal} Certification",
+      "add": "Add another license",
+      "title": "Professional License Verification",
+      "titleSuffix": "Licensing",
+      "noCertifications": "<strong>No professional licensing information.</strong> By checking this, you certify that you have no professional license to verify.",
+      "consent": "I consent to Checkr reviewing my licensing information and contacting the certifying organization to verify my professional license.",
+      "certifyingOrganization": "Certifying Organization",
+      "certifyingOrganizationTooltip": "Select the certifying organization (or issuing body) that most closely matches what appears on your license.",
+      "certifyingOrganizationWebsite": "Certifying Organization Website",
+      "licenseNumber": "License Number",
+      "additionalText": "Additional Text (Optional)",
+      "candidateUploadInfo": "Upload a PDF copy of your license, or a screenshot of the license from the certifying organization's website. Documents must include your name and will be used only for verification purposes.",
+      "candidateUploadTitle": "Upload your license (required)",
+      "candidateUploadVerify": "Please note the company you applied for may view any documents you submit.",
+      "profession": "Profession or field of work",
+      "professionPlaceholder": "e.g. Nursing, Contracting, Real Estate..."
+    },
+    "ProfessionalReferenceForm": {
+      "title": "Professional reference"
+    },
+    "ReferenceForm": {
+      "alert": "Please fill out the following form with information about who you want to serve as your references."
+    },
+    "Review": {
+      "title": "Review and submit",
+      "header": "Please confirm your information is correct before submitting. Misspellings or information that does not match your application will delay your background check."
+    },
+    "Signature": {
+      "title": "Electronic signature",
+      "header": "By typing my name below, I consent to a background check and indicate my agreement to all of the above.<br/>By typing my name below, I also agree that all communications, agreements, notices, documents and disclosures relating to my background check will be sent electronically. I understand that my electronic signature is as valid as a handwritten signature."
+    },
+    "BGCMinorConsentSignature": {
+      "header": "Candidate: Please enter your name below",
+      "guardianHeader": "Parent/Guardian: By typing your name below, you consent to the background checks for the aforementioned candidate of which you are the legal guardian of, and indicate your agreement to all of the above.",
+      "guardianAcknowledgement": "I acknowledge under legal authority that I am the legal guardian of the candidate."
+    },
+    "ScheduleComponent": {
+      "covidPanel": {
+        "title": "COVID-19 Notice",
+        "body": "Please call the clinic you select to confirm that they are available for testing, and to determine if they require any specific social distancing measures for your visit. Some might be closed temporarily, restricting services to prioritize COVID-19 testing, or requiring their clients to wear masks or other protective gear."
+      },
+      "screeningNames": {
+        "drugScreening": "Drug screening",
+        "occupationalHealthScreening": "Occupational health screening"
+      },
+      "greeting": "Hi %{name}",
+      "loading": "Loading the scheduling page.",
+      "instructions": {
+        "part1": "<strong>%{company}</strong> requires that you complete %{exams} before starting work.",
+        "part2": "Please choose a location below. If you have not completed the screening by <strong>%{date}</strong> your job application will be suspended."
+      },
+      "locations": {
+        "title": "Select a Location",
+        "details": "Select a convenient location to complete your screening.  Please contact the selected clinic location and confirm if an appointment is required.",
+        "currentLocation": "Use current location",
+        "help": "Need help finding a location? Call %{supportPhone}"
+      },
+      "confirm": {
+        "preConfirm": {
+          "title": "Confirm your selected location",
+          "details": "Here is the location you selected.  You may make changes by clicking \"Previous\"."
+        },
+        "postConfirm": {
+          "title": "Confirmation",
+          "details": "Please check your email / text messages for a confirmation. This includes a screening pass that you must print and bring to the site along with your photo ID."
+        }
+      },
+      "locationUpdate": {
+        "title": "Thank you!",
+        "details": "Location has been successfully updated. You can view the status of your background <a href=\"https://candidate.checkr.com/\">here</a>."
+      },
+      "noLocationsFound": {
+        "title": "No locations found for that zip code",
+        "details": "Please try a different zip code nearby. If no nearby zip codes are showing locations, <a href=\"https://checkrapplicant.zendesk.com/hc/en-us/requests/new\">contact support.</a>"
+      },
+      "noConnectivity": "We are having a hard time reaching our clinic provider at this time. You may continue without selecting a clinic and we will follow up with further instructions. Or you can try searching again later.",
+      "electronic": {
+        "tag": "Get results faster"
+      },
+      "nonElectronic": {
+        "tag": "Paperwork will be mailed to you",
+        "confirmation": {
+          "title": "実行しますか？",
+          "body": "We will need to mail the paperwork to you, which takes <strong>5-7 days</strong>. You will not be able to take your screening before you receive the paperwork.<br/><br/>If  you can make it to an electronic location, you can take the screening immediately."
+        }
+      },
+      "infoPanel": {
+        "healthScreeningTitle": "Health screening information",
+        "screeningLocation": "Screening location",
+        "businessHours": "Business hours",
+        "passExpiration": "Pass expiration",
+        "status": "ステータス"
+      },
+      "commonQuestions": {
+        "title": "Common Questions",
+        "q1": "How long do I have to complete my screening?",
+        "a1": "You have until the close of business on <strong>%{date}</strong>. The sooner you take care of it, the sooner you’ll be able to start working.",
+        "q2": "What if I can’t make it to this location?",
+        "a2": "You can use your screening pass at any location that’s able to perform your required tests. Call <strong>%{supportPhone}, press 5, then 1, then 2</strong> to reach the appropriate extension for help finding a different location. Be ready to provide the ID number starting with \"AI\" on your screening pass PDF.",
+        "q3": "What should I expect during my visit?",
+        "a3": "Our <a href=\"https://checkrapplicant.zendesk.com/hc/en-us\" target=\"_blank\">Drug Screening Guide</a> and <a href=\"https://checkrapplicant.zendesk.com/hc/en-us\" target=\"_blank\">Occupational Health Screening Guide</a> have more information about what to expect for each type of screening."
+      }
+    },
+    "StandardConsent": {
+      "title": "Authorization",
+      "label": "Please check this box if you would like to receive a copy of a consumer report."
+    },
+    "StandardConsentLong": {
+      "title": "Additional Acknowledgements & Authorizations",
+      "label": "Please check this box if you would like to receive a copy of a consumer report."
+    },
+    "TestBanner": {
+      "text": "<strong>This package is for testing purposes </strong> — No background check will be run when submitted."
+    },
+    "TypeAheadInput": {
+      "didyoumean": "Did you mean"
+    },
+    "upload": {
+      "desktopButtonText": "Click to Upload",
+      "mobileButtonText": "Upload or Take a Photo",
+      "document": "%{count} documents uploaded (up to %{maxFiles})",
+      "document_1": "%{count} document uploaded (up to %{maxFiles})",
+      "successText": "Uploaded!",
+      "clickToSelectFiles": "Click to Select Files to Upload",
+      "tapToSelectFiles": "Tap to Select Files or Take a Photo",
+      "selectFilesToUpload": "Select Files to Upload",
+      "dragAndDrop": "or Drag and Drop, Copy and Paste Files",
+      "selectedFiles": "Selected Files",
+      "upload": "アップロード",
+      "images": "画像",
+      "deselectAll": "Deselect All",
+      "filter": "フィルター",
+      "files": "ファイル",
+      "uploadMore": "Upload more",
+      "viewEditSelected": "View/Edit Selected",
+      "uploading": "アップロードしています",
+      "uploaded": "Uploaded",
+      "completed": "完了済み",
+      "fileError": "File {displayName} is not an accepted file type. The accepted file types are {types}",
+      "fileTooBig": "File {displayName} is too big. The accepted file size is less than {roundFileSize}",
+      "searchImages": "Search images",
+      "selectFrom": "Select From",
+      "moreFile": "more file",
+      "moreFiles": "more files",
+      "thisFolderIsEmpty": "This folder is empty.",
+      "thisImageCannotBeEdited": "This image cannot be edited",
+      "ourFileUploadLimit": "Our file upload limit is {maxFiles} {filesText}",
+      "noSearchResults": "No search results found for {search}",
+      "next": "次へ",
+      "dropYourFilesAnywhere": "Drop your files anywhere",
+      "done": "完了",
+      "failedWhileUploading": "Failed While Uploading",
+      "add": "追加",
+      "AnErrorOccurred": "An error occurred. Please try again.",
+      "reset": "リセット",
+      "goBack": "Go back"
+    },
+    "WashingtonMvrDisclosure": {
+      "title": "Washington Disclosure",
+      "label": "I acknowledge receipt of the Washington Disclosure and certify that I have read and understand this document."
+    },
+    "PuertoRicoMvrAuthorization": {
+      "title": "Puerto Rico authorization",
+      "contentHeader": "Authorization for Release of Driving Record by DTOP of Puerto Rico",
+      "content": "I authorize and allow %{company} to obtain a copy of my driver’s license abstract information which will be used for verification of information for legitimate business purposes.",
+      "signatureHeader": "By typing my name below, I agree to the Authorization (set forth above)"
+    },
+    "VideoNotice": {
+      "text": "Curious about what happens next? Watch the video below for more info on the process."
+    }
+  },
+  "international": {
+    "InternationalConsent": {
+      "title": "Authorization",
+      "label": "<b>I authorize Checkr and its designated representatives to obtain my personal and criminal information and transfer it outside of the EU.</b>"
+    },
+    "InternationalInformationForm": {
+      "title": "International information"
+    },
+    "internationalConsentForm": {
+      "description": "We will send you a copy of your completed background check."
+    },
+    "headerText": {
+      "information": "In order to complete your background check internationally, we are required to collect information pertaining to the countries you have lived in. Please review the information below and make sure you are able to fill out all fields completely.",
+      "education": "As part of your background check, Checkr needs to verify your education. The information you provide will be used in the verification process. Please enter the most accurate information possible. Inaccuracies can lead to longer turnaround time and potentially delaying you from starting your new position.",
+      "employment": "As part of your background check, Checkr needs to verify your employment history. The information you provide will be used in the verification process. Please enter the most accurate information possible. Inaccuracies can lead to longer turnaround time, and may delay you from starting your new position.",
+      "identity_document_validation": "To complete your background check, we're required to verify your identity document. Please use the ID type menu to select your document's type. Passports provide the quickest turnaround time, and are therefore recommended.",
+      "motor_vehicle_report": "To complete your background check, we’re required to verify your driver information. Please use the issuing province menu to provide your license details. Driver’s license must be <b>valid and unexpired</b>.<br><br>Depending on the issuing province of your driver’s license, you may need to leave this page and temporarily suspend your background check. Before leaving this page, remember to press the <b>Save</b> button in the bottom of the page, and once returning, continue your progress from where you left off."
+    },
+    "uploadText": {
+      "education": {
+        "header": "Verify education by document:",
+        "body": "Accepted documents include copy of the degree or a transcript/statement of marks. Documents must reflect the education institution name and will only be used for verification purposes."
+      },
+      "indiaEducation": {
+        "header": "Verify education by documents:",
+        "body": "Required documents include a color copy of the Degree/Diploma/Certificate with all four edges visible and Marksheet Information for all years/semesters. Documents must reflect the education institution name and will only be used for verification purposes."
+      },
+      "employment": {
+        "header": "Verify employment by document:",
+        "body": "Accepted documents include country specific tax documents or paystubs. Documents must reflect the employer name and will only be used for verification purposes."
+      }
+    },
+    "steps": {
+      "internationalConsentForm": "Authorization"
+    },
+    "labels": {
+      "schoolState": "State or Province",
+      "schoolName": "School or university name",
+      "employerName": "企業名",
+      "addressState": "State or Province",
+      "citizenship": "Country of citizenship",
+      "countryCode": "Country of residence",
+      "dob": "Date of birth ({{var}})",
+      "internationalConsentForm": "International consent form",
+      "startDate": "開始:",
+      "endDate": "To:",
+      "idType": "ID type",
+      "idNumber": "ID number",
+      "idDocumentCountry": "Country of issue",
+      "idDocumentNumber": "ID number",
+      "idDocumentType": "ID type",
+      "state": "State/Province/Area",
+      "zipcode": "郵便番号",
+      "street": "Street address 1",
+      "street2": "Street address 2",
+      "position": "Most recent position held",
+      "governmentId": "Government ID",
+      "nationalId": "National ID",
+      "taxpayerId": "Taxpayer ID",
+      "photoId": "Photo ID",
+      "curpCard": "Curp card",
+      "passport": "Passport",
+      "canadaViolationDate": "Date of Sentence ({{var}})",
+      "driversLicense": "Driver's License",
+      "driverLicense": "Driver License",
+      "cityOfBirth": "City of birth",
+      "countryOfBirth": "Country of birth",
+      "phoneNumber": "Phone number",
+      "female": "女性",
+      "male": "男性",
+      "other": "その他",
+      "preferNotToSay": "Prefer not to say",
+      "number": "数字",
+      "indexedNumber": "{{var}} Number",
+      "nationalGovernmentID": "National or government ID",
+      "visa": "Visa",
+      "dateOfEntry": "Date of Entry ({{var}})",
+      "scopedRequirements": {
+        "CA": {
+          "dateOfEntry": "Date of Entry (Required if Country of Birth is not Canada)",
+          "violations": "Conviction",
+          "aliases": "Previous name"
+        }
+      },
+      "birthCertificate": "Birth Certificate",
+      "applicantLetter": "Applicant letter",
+      "notarizedId": "Notarized id",
+      "localizedFirstName": "Localized first name",
+      "localizedLastName": "Localized last name",
+      "isCitizen": "Is citizen",
+      "grandfatherFirstName": "Grandfather first name",
+      "maritalStatus": "Marital status",
+      "inCountryConsentForm": "In country consent form",
+      "outOfCountryConsentForm": "Out of country consent form",
+      "internationalConsentForm2": "International consent form2",
+      "dbsEmploymentSector": "Employment sector",
+      "title": "件名",
+      "positionAppliedFor": "Position applied for",
+      "nationalInsuranceNumber": "National insurance number",
+      "passportExpirationDate": "Passport expiration date",
+      "passportIssueDate": "Passport issue date",
+      "driverLicenseIssuingCountry": "Driver license issuing country",
+      "driversLicenseNumber": "Drivers license number",
+      "driversLicenseIssueDate": "Drivers license issue date",
+      "driversLicenseType": "Drivers license type",
+      "nationality": "Nationality",
+      "birthCertificateCountry": "Birth certificate country",
+      "birthCertificateNumber": "Birth certificate number",
+      "passportNumber": "Passport number",
+      "jurisdictionSpecificIdentifier": "Jurisdiction specific identifier",
+      "nationalIdNumber": "National ID Number",
+      "payslipDate": "Payslip date"
+    },
+    "placeholders": {
+      "schoolName": "School or university name",
+      "employerName": "企業名",
+      "dob": "DD/MM/YYYY",
+      "startDate": "MM/YYYY",
+      "endDate": "MM/YYYY",
+      "idType": "ID type",
+      "idNumber": "ID number",
+      "idDocumentType": "Passport",
+      "idDocumentNumber": "ID number",
+      "state": "Enter state, province or area name",
+      "zipcode": "Enter postal code",
+      "canadaViolationDate": "DD/MM/YYYY",
+      "dateOfEntry": "DD/MM/YYYY",
+      "street": "Enter street number and name",
+      "street2": "Enter apartment, suite or floor number",
+      "firstName": "Enter first name",
+      "middleName": "Enter middle name",
+      "lastName": "Enter last name",
+      "degree": "Enter degree",
+      "salary": "Annual salary",
+      "minor": "Minor",
+      "major": "Major",
+      "managerPhone": "Enter contact phone",
+      "url": "URL",
+      "address": "Enter address",
+      "yearAwared": "Year awarded",
+      "nameOnDiploma": "Name on diploma",
+      "country": "Country...",
+      "cityOfBirth": "City of birth",
+      "number": "Enter number",
+      "managerName": "Enter contact name",
+      "managerTitle": "Enter contact title",
+      "managerEmail": "Enter contact email",
+      "position": "Position held",
+      "phoneNumber": "Phone number",
+      "yearAwarded": "Year Awarded",
+      "motherMaidenName": "Mother's maiden name",
+      "motherFirstName": "Mother's first name",
+      "fatherLastName": "Father's last name",
+      "fatherFirstName": "Father's first name",
+      "sex": "Sex",
+      "previousName": "Previous Name",
+      "offence": "Offence",
+      "courtLocation": "Court Location",
+      "taxpayerId": "Taxpayer ID",
+      "localizedFirstName": "Localized first name",
+      "localizedLastName": "Localized last name",
+      "grandfatherFirstName": "Grandfather first name",
+      "maritalStatus": "Marital status",
+      "dbsEmploymentSector": "Employment sector",
+      "title": "件名",
+      "positionAppliedFor": "Position applied for",
+      "nationalInsuranceNumber": "National insurance number",
+      "passportExpirationDate": "Passport expiration date",
+      "passportIssueDate": "Passport issue date",
+      "driverLicenseIssuingCountry": "Driver license issuing country",
+      "driversLicenseNumber": "Drivers license number",
+      "driversLicenseIssueDate": "Drivers license issue date",
+      "driversLicenseType": "Drivers license type",
+      "nationality": "Nationality",
+      "birthCertificateCountry": "Birth certificate country",
+      "birthCertificateNumber": "Birth certificate number",
+      "passportNumber": "Passport number",
+      "jurisdictionSpecificIdentifier": "Jurisdiction specific identifier",
+      "nationalIdNumber": "National ID Number",
+      "payslipDate": "Payslip date"
+    },
+    "dropdownLabel": {
+      "identityDocuments": {
+        "adoptionCertificate": "Adoption Certificate",
+        "bankOpeningLetter": "Bank Opening Letter",
+        "bankStatementNonEea": "Bank Statement Non Eea",
+        "benefitStatement": "Benefit Statement",
+        "biometricResidencePermit": "Biometric Residence Permit",
+        "birthCertificate": "Birth Certificate",
+        "birthCertificateAfterBirth": "Birth Certificate After Birth",
+        "birthCertificateAtBirth": "Birth Certificate At Birth",
+        "buildingSocietyOpeningLetter": "Building Society Opening Letter",
+        "buildingSocietyStatementNonEea": "Building Society Statement Non Eea",
+        "buildingSocietyStatementUkOrEea": "Building Society Statement Uk Or Eea",
+        "centralGovernmentDocument": "Central Government Document",
+        "councilTaxStatement": "Council Tax Statement",
+        "creditCardStatement": "Credit Card Statement",
+        "currentDrivingLicence": "Current Driving Licence",
+        "currentDrivingLicenceNonUk": "Current Driving Licence Non Uk",
+        "currentDrivingLicenceOldStyle": "Current Driving Licence Old Style",
+        "currentValidPassport": "Current Valid Passport",
+        "drivingLicence": "Driving Licence",
+        "eeaidCard": "EEAID Card",
+        "euNationalIdCard": "EU National ID Card",
+        "employeeIdCard": "Employee ID Card",
+        "financialStatement": "Financial Statement",
+        "fireArmsLicence": "Fire Arms Licence",
+        "hmForcesIdCard": "HM Forces ID Card",
+        "immigrationDocument": "Immigration Document",
+        "immigrationDocumentVisaWorkPermit": "Immigration Document Visa Work Permit",
+        "irishPassportCard": "Irish Passport Card",
+        "letterFromHeadTeacher": "Letter From Head Teacher",
+        "letterOfSponsorship": "Letter Of Sponsorship",
+        "localGovernmentDocument": "Local Government Document",
+        "marriageCivilPartnershipCertificate": "Marriage Civil Partnership Certificate",
+        "marriageDocument": "Marriage Document",
+        "mortgageStatement": "Mortgage Statement",
+        "nusCard": "NUS Card",
+        "officeTravelDoc": "Office Travel Doc",
+        "p45Statement": "P45 Statement",
+        "p60Statement": "P60 Statement",
+        "passCard": "PASS Card",
+        "passport": "Passport",
+        "ukAdoptionCertificate": "UK Adoption Certificate",
+        "ukGovDepartCard": "UK Gov Depart Card",
+        "ukVisa": "UK Visa",
+        "utilityBill": "Utility Bill",
+        "applicationregistrationCard": "Application Registration Card",
+        "bankStatementUkOrEea": "Bank Statement Uk Or Eea",
+        "brpWithIndefiniteorcurrentLeave": "BRP With Indefinite Or Current Leave",
+        "certificateofapplication": "Certificate Of Application",
+        "immigrationStatusDocument": "Immigration Status Document",
+        "immigrationStatusDocumentIndefiniteStay": "Immigration Status Document Indefinite Stay",
+        "passportWithIndefiniteorcurrentLeave": "Passport With Indefinite Or Current Leave",
+        "permanentResidenceCard": "Permanent Residence Card"
+      },
+      "residentialAddressDocuments": {
+        "electricity": "Electricity",
+        "gas": "Gas",
+        "water": "Water",
+        "telephone": "電話",
+        "mobilePhone": "携帯電話",
+        "tvLicence": "TV Licence",
+        "bank": "Bank",
+        "buildingSociety": "Building Society",
+        "creditCard": "Credit Card",
+        "storeCard": "Store Card",
+        "pension": "Pension",
+        "isa": "ISA",
+        "endowment": "Endowment",
+        "mortgage": "Mortgage",
+        "invoices": "Invoices",
+        "councilTax": "Council Tax",
+        "ukba": "UKBA",
+        "hmrc": "HMRC",
+        "bobCentrePlus": "Job Centre Plus",
+        "otherCentralGovernment": "Other Central Government",
+        "otherLocalGovernment": "Other Local Government",
+        "nhs": "NHS",
+        "tenancyAgreement": "Tenancy Agreement",
+        "drivingLicence": "Driving Licence",
+        "ukCounterpartDrivingLicence": "UK Counterpart Driving Licence",
+        "ukmotTaxDiskReminder": "UKMOT TaxDisk Reminder",
+        "ukv5C": "UKV5C",
+        "payslip": "Payslip",
+        "ukp45OrP60": "UKP45OrP60",
+        "insuranceDocs": "Insurance Docs",
+        "jobCentrePlus": "Job Centre Plus"
+      },
+      "licenseTypes": {
+        "unknown": "不明",
+        "paper": "Paper",
+        "photo": "Photo"
+      },
+      "title": {
+        "baron": "Baron",
+        "baroness": "Baroness",
+        "brigadier": "Brigadier",
+        "canon": "Canon",
+        "captain": "Captain",
+        "dr": "Dr",
+        "duchess": "Duchess",
+        "duke": "Duke",
+        "esq": "Esq",
+        "father": "Father",
+        "hon": "Hon",
+        "inspector": "Inspector",
+        "lady": "Lady",
+        "lord": "Lord",
+        "ltCol": "Lt Col",
+        "major": "Major",
+        "miss": "Miss",
+        "mostRever": "Most Rever",
+        "mr": "Mr",
+        "mrs": "Mrs",
+        "ms": "Ms",
+        "pastor": "牧師",
+        "professor": "Professor",
+        "rabbi": "Rabbi",
+        "revDr": "Rev Dr",
+        "reverend": "Reverend",
+        "rtReveren": "Rt Reveren",
+        "sir": "Sir",
+        "sister": "Sister",
+        "squadronL": "SquadronL",
+        "wgCdr": "Wg Cdr"
+      },
+      "employmentSectors": {
+        "academyEducation": "Academy Education",
+        "accommodationAndFoodService": "Accommodation And Food Service",
+        "administrativeAndSupport": "Administrative And Support",
+        "agricultureForestryAndFishing": "Agriculture Forestry And Fishing",
+        "artsAndEntertainment": "Arts And Entertainment",
+        "centralGovernment": "Central Government",
+        "childCare": "Child Care",
+        "construction": "Construction",
+        "drivers": "Drivers",
+        "energyAndAirConditioning": "Energy And Air Conditioning",
+        "financialAndInsurance": "Financial And Insurance",
+        "fosterAdoption": "Foster/Adoption",
+        "furtherEducation": "Further Education",
+        "higherEducation": "Higher Education",
+        "independentEducation": "Independent Education",
+        "informationAndCommunication": "Information And Communication",
+        "lawEnforcementAndSecurity": "Law Enforcement And Security",
+        "leisureSportAndTourism": "Leisure Sport And Tourism",
+        "localGovernment": "Local Government",
+        "manufacturing": "Manufacturing",
+        "miningAndQuarrying": "Mining And Quarrying",
+        "nhs": "NHS",
+        "preschoolEducation": "Preschool Education",
+        "primaryEducation": "Primary Education",
+        "privateHealthcare": "Private Healthcare",
+        "professionalTechnical": "Professional Technical",
+        "publicSectorOther": "Public Sector- Other",
+        "realEstateActivities": "Real Estate Activities",
+        "recruitmentAndHr": "Recruitment And HR",
+        "retail": "Retail",
+        "secondaryEducation": "Secondary Education",
+        "socialCare": "Social Care",
+        "tradeOrRepairOfVehicles": "Trade Or Repair Of Vehicles",
+        "transportationAndStorage": "Transportation And Storage",
+        "voluntaryCharity": "Voluntary/Charity",
+        "waterAndWasteManagement": "Water And Waste Management"
+      }
+    },
+    "helperText": {
+      "citizenship": "Dual citizens: Choose your preferred citizenship"
+    },
+    "LastInternationalAddressForm": {
+      "title": "Last address outside the US",
+      "alert": "Please submit your <strong>most recent address outside of the United States</strong>."
+    },
+    "regionOverrides": {
+      "countries": {
+        "england": "England",
+        "northernIreland": "Northern Ireland",
+        "other": "その他",
+        "scotland": "Scotland",
+        "wales": "Wales"
+      },
+      "descriptions": {
+        "additionalDetails": "Please provide the following information as required by the Government of the United Kingdom.",
+        "employmentDetails": "Please provide your potential employer's information.",
+        "gbConstituentCountry": "Select which country in the United Kingdom that you'll be working in.",
+        "proofOfIdentity": "Select two documents to upload as proof of your identity.",
+        "proofOfResidence": "Select a document to upload as proof of your current address."
+      },
+      "titles": {
+        "constituentCountry": "Country*",
+        "documentType": "Document type*",
+        "nationalInsuranceDocument": "National insurance document"
+      },
+      "placeholders": {
+        "selectACountry": "Select a country",
+        "selectADocument": "Select a document"
+      },
+      "sectionHeaders": {
+        "additionalDetails": "Additional details*",
+        "employmentDetails": "Employment details*",
+        "proofOfIdentity": "Proof of identity*",
+        "proofOfResidence": "Proof of current address*",
+        "workLocation": "Work Location"
+      }
+    }
+  },
+  "buttons": {
+    "addAddress": "Add Address",
+    "applicantPaySubmit": "Place Order",
+    "changeLocation": "Change Location",
+    "confirm": "確認",
+    "continue": "続行",
+    "enterManually": "Enter manually",
+    "getStarted": "Get started",
+    "hide": "非表示",
+    "incorrectInformation": "This isn't correct",
+    "locationSearch": "Search near me",
+    "noIHavent": "No, I haven't",
+    "no": "いいえ",
+    "notYou": "本人ではありませんか？",
+    "previous": "前",
+    "remove": "削除",
+    "removeDocuments": "Remove Documents",
+    "show": "表示",
+    "submitting": "Submitting",
+    "submit": "送信",
+    "scheduleTest": "Schedule Test",
+    "scheduleVaccine": "Schedule Vaccine",
+    "testForImmunity": "Test for Immunity",
+    "tryAgain": "Try Again",
+    "uploadDocumentation": "Upload Documentation",
+    "upload": "アップロード",
+    "yes": "はい",
+    "yesIHave": "Yes, I have",
+    "confirmLaterInPerson": "Confirm later in person",
+    "continueWithYoti": "Continue with Yoti"
+  },
+  "countries": {
+    "unitedStatesOfAmerica": "United States of America"
+  },
+  "placeholders": {
+    "offenseCategory": "eg. Reckless driving, larceny, etc.",
+    "city": "Enter city name",
+    "cityLocked": "Select a state first",
+    "offenseLevel": "eg. Felony, misdemeanor, etc.",
+    "county": "Enter county name",
+    "countyLocked": "Select a state first",
+    "email": "name@email.com",
+    "employerName": "企業名",
+    "phone": "(555) 555-5555",
+    "sentence": "eg. $1,000 fine, 3 months county jail, etc.",
+    "timeServed": "eg. 6 weeks county jail, 2 years state prison, etc.",
+    "mitigatingFactors": "eg. 12 years ago, completed rehabilitation program, etc.",
+    "currentPosition": "Current Position",
+    "mmYY": "MM/YYYY",
+    "mmDDYY": "MM/DD/YYYY",
+    "YYYY": "YYYY",
+    "zipcode": "Enter a zip code to find nearby locations",
+    "driverLicenseCountryOfIssue": "Driver license country of issue",
+    "driverLicenseProvinceOfIssue": "Driver license province of issue",
+    "driverLicenseNumber": "Driver license number",
+    "driverLicenseClass": "Driver license class",
+    "fullLegalName": "Full legal name"
+  },
+  "labels": {
+    "ordinalNumbers": {
+      "number_1": "第 1",
+      "number_2": "第 2",
+      "number_3": "第 3",
+      "number_4": "第 4",
+      "number_5": "Fifth",
+      "number_6": "Sixth",
+      "number_7": "Seventh",
+      "number_8": "Eighth",
+      "number_9": "Ninth",
+      "number_other": "%{count}th"
+    },
+    "attachedDocuments": "Attached document(s)",
+    "address": "住所",
+    "birthCountry": "Country of birth",
+    "birthPlace": "Place of birth",
+    "citizenship": "Citizenship",
+    "city": "市町村",
+    "cityOfConviction": "City of conviction",
+    "clinicAddress": "Clinic address",
+    "contractType": "Contract type",
+    "country": "国",
+    "countryOfCitizenship": "Country of citizenship",
+    "countryOfResidence": "Country of residence",
+    "countyOfConviction": "County of conviction",
+    "creditOrDebit": "Credit or debit card",
+    "currentAddressCheckbox": "This is my current address",
+    "currentPosition": "Current position?",
+    "currentZipcode": "Current zip code",
+    "dateOfConviction": "Approximate conviction date",
+    "dateOfSentence": "Date of sentence",
+    "dlNumber": "Driver license number",
+    "dlState": "Driver license state",
+    "dlExpirationDate": "Driver’s license expiration date",
+    "dob": "Date of birth",
+    "driverLicenseNumber": "Driver license number",
+    "driverLicenseProvince": "Driver License Province",
+    "email": "メール",
+    "emailOptional": "Email (optional)",
+    "employerDoNotContactHelpText": "<strong>Do not contact.</strong> Checking this box indicates that you do not want this employer to be contacted to verify your employment. Database searches will be used instead.",
+    "employerName": "企業名",
+    "employerStartDate": "開始日",
+    "employerToDate": "終了日",
+    "employerState": "Company state",
+    "employerUrl": "企業のウェブサイト",
+    "employerUrlOptional": "Company website (optional)",
+    "employmentGapNote": "Why did you take an employment gap? How did you spend your time? What did you learn or what are you most proud of?",
+    "employmentConfirmFullLookback": "<strong>Your employment history does not meet the minimum %{lookbackYears} years required for this position</strong>. There are periods which are unaccounted for. By checking this box, you confirm that there are no missing job positions, and that Checkr can treat the unallocated periods as employment gaps.",
+    "endDate": "終了日",
+    "endDateOptional": "End date (optional)",
+    "fatherName": "Father's Full Name",
+    "firstName": "First name",
+    "from": "開始",
+    "fullName": "Full name",
+    "gedDiplomaImg": "Please upload a copy of your GED if you have it. Without this, you will be subject to very long delays or potentially adverse action.",
+    "gender": "性別",
+    "hello": "Hello",
+    "highSchoolDiplomaImg": "Please upload a copy of your high school diploma if you have it. Without this, you will be subject to very long delays or potentially adverse action.",
+    "lastName": "Last name",
+    "location": "ロケーション",
+    "mailingAddress": "Mailing address",
+    "managerEmail": "Contact email",
+    "managerName": "Contact name",
+    "managerPhone": "Contact phone",
+    "managerTitle": "Contact title",
+    "middleName": "Middle name",
+    "mitigatingFactors": "Provide any information you would like considered regarding the listed offense(s) or evidence of rehabilitation. You can describe circumstances surrounding the offense, the time that has elapsed since the offense, your age, the number of offenses, any employment history before or after conviction, evidence of rehabilitation, and any other mitigating factors.",
+    "mitigatingFactorsSimple": "Describe the conviction",
+    "mobilePhone": "Mobile phone number",
+    "motherMaidenName": "Mother's maiden name",
+    "name": "名前",
+    "nameOnDiploma": "Name on diploma",
+    "nameOnDiplomaOptional": "Name on diploma (optional)",
+    "nameOnGED": "Name on GED",
+    "nameOnGEDOptional": "Name on GED (optional)",
+    "noEducationHistory": "<strong>No education history</strong>. By checking this, you certify that you have no education to verify.",
+    "noEmploymentHistory": "<strong>No employment history</strong>. By checking this, you certify that you have no employment to verify.",
+    "noMiddleName": "I confirm I have no middle name.",
+    "noSsn": "I confirm I have no Social security number.",
+    "offence": "Offence",
+    "offenseCategory": "Describe the conviction",
+    "offenseLevel": "Level of offense",
+    "partialSsn": "Last 4 digits of Social Security Number",
+    "passportCountry": "Passport country",
+    "passportImage": "Passport image",
+    "passportNumber": "Passport number",
+    "phone": "Phone number",
+    "phoneOptional": "Phone number (optional)",
+    "position": "Last position held",
+    "postalCode": "Postal code",
+    "present": "現在",
+    "province": "Province",
+    "referenceRelationship": "Reference relationship",
+    "required": "(required)",
+    "residentFrom": "Resident from",
+    "salary": "Annual salary",
+    "schoolCity": "市町村",
+    "schoolCurrent": "I am currently pursuing this degree",
+    "schoolDegree": "Education level",
+    "schoolMajor": "Major",
+    "schoolMinor": "Minor",
+    "schoolMinorOptional": "Minor (optional)",
+    "schoolName": "School or university name",
+    "schoolNameHighSchool": "High school name",
+    "schoolNameUniversity": "College or university name",
+    "schoolState": "状態",
+    "schoolUrl": "School website",
+    "schoolUrlOptional": "School website (optional)",
+    "sentence": "Sentenced to",
+    "sentenceDate": "Date of Sentence",
+    "ssn": "Social security number",
+    "ssnConfirmation": "Confirm social security number",
+    "startDate": "Start date",
+    "startDateOptional": "Start date (optional)",
+    "state": "状態",
+    "stateInternational": "State / Province / Area",
+    "stateOfConviction": "State of conviction",
+    "street": "所在地住所",
+    "testingSiteGED": "Testing site",
+    "timeServed": "Time served (if applicable)",
+    "toDate": "終了",
+    "uploadEduDocs": "Providing documents of proof can help expedite the process and help prevent potential adverse action.",
+    "uploadEmploymentDocs": {
+      "default": "<span class=\"h6\">Verify employment by document</span>:<br/>Accepted documents include W-2, 1099, or paystub. Documents must reflect the employer name and will only be used for verification purposes.",
+      "noManager": "<span class=\"h6\">Please provide documentation to verify your employment</span>:<br/>Accepted documents include W-2, 1099, or paystub. Documents must reflect the employer name and will only be used for verification purposes.",
+      "documentForStartDate": "Document for <strong>start date:</strong>",
+      "documentForEndDate": "Document for <strong>end date:</strong>",
+      "currentEmployerNote": "A paystub is recommended to prove current employment."
+    },
+    "uploadYourDiploma": "Upload your diploma",
+    "uploadYourGED": "Upload your GED certificate",
+    "yearAwarded": "Year Awarded",
+    "zipcode": "ZIP code",
+    "zipcodeSearch": "Enter a zip code to find nearby locations",
+    "degree": "Degree",
+    "major": "Major",
+    "minor": "Minor",
+    "motherFirstName": "Mother's first name",
+    "fatherFirstName": "Father's first name",
+    "fatherLastName": "Father's last name",
+    "professionalLicenseNumber": "Professional license certificate",
+    "sex": "Sex",
+    "dateOfEntry": "Date of entry",
+    "previousName": "Previous Name",
+    "courtLocation": "Court Location",
+    "citizenshipCertificate": "Citizenship Certificate",
+    "militaryId": "Military ID",
+    "alienId": "Alien ID",
+    "studentId": "Student ID",
+    "driverLicenseCountryOfIssue": "Country of Issue",
+    "driverLicenseProvinceOfIssue": "Province of Issue",
+    "driverLicenseClass": "License class",
+    "driverLicenseExpirationDate": "License expiration date",
+    "powerOfAttorneyPacket": "Power of attorney packet",
+    "unit": "Unit",
+    "signHere": "Sign here"
+  },
+  "options": {
+    "selectADay": "Select a day",
+    "selectADegree": "Select an education level",
+    "selectAContract": "Select a contract type",
+    "selectACountry": "Select a country",
+    "selectAMonth": "Select a month",
+    "selectAProvince": "Select a province",
+    "selectAState": "Select a state",
+    "selectAYear": "Select a year",
+    "selectOffenseLevel": "Select offense level",
+    "notInTheUSA": "Not in the USA",
+    "noEducation": "No Education History",
+    "contracts": {
+      "fullTime": "Full-time",
+      "partTime": "Part-time",
+      "contract": "Contract",
+      "internship": "Internship/Co-op",
+      "seasonal": "Seasonal",
+      "selfEmployed": "Self-Employed",
+      "temporary": "Temporary",
+      "other": "その他"
+    },
+    "degrees": {
+      "highSchool": "High School",
+      "ged": "GED",
+      "associate": "Associate",
+      "associateOfArts": "Associate of Arts (A.A.)",
+      "associateOfAppliedScience": "Associate of Applied Science (A.A.S.)",
+      "associateOfScience": "Associate of Science (A.S.)",
+      "bachelor": "Bachelor",
+      "bachelorOfArts": "Bachelor of Arts (B.A.)",
+      "bachelorOfScience": "Bachelor of Science (B.S.)",
+      "master": "Master",
+      "masterOfArts": "Master of Arts (M.A.)",
+      "masterOfScience": "Master of Science (M.S.)",
+      "doctor": "Doctor",
+      "doctorOfPhilosophy": "Doctor of Philosophy (Ph.D.)",
+      "medicalDoctor": "Medical Doctor (M.D.)",
+      "jurisDoctorate": "Juris Doctorate (J.D.)",
+      "doctorOfDentalSurgery": "Doctor of Dental Surgery (D.D.S.)",
+      "doctorOfPharmacy": "Doctor of Pharmacy (Pharm.D.)",
+      "other": "その他"
+    },
+    "months": {
+      "january": "1 - January",
+      "february": "2 - February",
+      "march": "3 - March",
+      "april": "4 - April",
+      "may": "5 - May",
+      "june": "6 - June",
+      "july": "7 - July",
+      "august": "8 - August",
+      "september": "9 - September",
+      "october": "10 - October",
+      "november": "11 - November",
+      "december": "12 - December"
+    },
+    "selfDisclosureOffenseLevels": {
+      "felony": "Felony",
+      "misdemeanor": "Misdemeanor",
+      "other": "その他"
+    }
+  },
+  "pages": {
+    "addressHistory": "Address History",
+    "authorization": "Authorization",
+    "californiaDisclosure": "California Disclosure",
+    "candidateDetails": "Candidate Details",
+    "creditDisclosure": "Credit Disclosure",
+    "criminalSelfDisclosure": "Self Disclosure",
+    "disclosure": "Disclosure",
+    "education": "Education",
+    "employment": "Employment",
+    "fairChanceOrdinance": "Additional Notices",
+    "info": "情報",
+    "internationalAuthorization": "International Authorization",
+    "investigativeDisclosure": "Investigative Disclosure",
+    "nyArticle23a": "Article 23-A",
+    "payment": "Payment",
+    "recordDeclaration": "Record Declaration",
+    "references": "References",
+    "thankYou": "Thank You",
+    "authenticateInvitationForm": "Welcome",
+    "confirmInformation": "確認",
+    "washingtonMvrDisclosure": "Washington Disclosure",
+    "puertoRicoMvrAuthorization": "Puerto Rico Authorization",
+    "welcome": "Welcome",
+    "yourRights": "Your Rights",
+    "healthScreeningConfiguration": "Health Screening",
+    "proLicenseVerification": "Professional License Verification",
+    "information": "情報",
+    "identityDocumentValidation": "Identity Document Validation",
+    "identity_document_validation": "Identity Document Validation",
+    "electronicConsentForm": "Electronic consent form",
+    "identityVerification": "Identity Verification",
+    "motor_vehicle_report": "Driver’s License Information",
+    "identityConfirmation": "Identity Confirmation",
+    "reviewAndSubmit": "Review & Submit"
+  },
+  "validations": {
+    "currentSchoolDisallowed": "This employer only accepts completed degrees.",
+    "dateInThePast": "Please choose a past date.",
+    "dateInTheFuture": "Please choose a future date.",
+    "dateFormat": "Please format date correctly. e.g. %{format}.",
+    "dateAfter": "Please choose a date after %{dateCompared}.",
+    "email": "Please enter a valid email address.",
+    "fieldLength": "Response exceeds max length.",
+    "fieldLengthMin": "Response fails minimum length requirement.",
+    "nameForm": "Your name may only contain letters, numbers, spaces, hyphens, apostrophes, periods, and commas.",
+    "lastNameForm": "Your name must contain at least 2 letters.",
+    "licenseNumber": "Please provide a valid license number.",
+    "previousName": "Please provide a valid full name.",
+    "required": "Required.",
+    "requiredDocuments": {
+      "one": "A minimum of %{minDocuments} document is required.",
+      "many": "A minimum of %{minDocuments} documents is required.",
+      "two": "A minimum of 2 documents are required."
+    },
+    "signatureFormat": "Your signature must match the name you submitted: %{firstName} %{middleName} %{lastName}.",
+    "validSSN": "Please provide a valid SSN",
+    "validSSNFormat": "Please format SSN correctly. e.g. XXX-XX-XXXX",
+    "validUrlFormat": "Please enter a correct URL, e.g. www.google.com.",
+    "unmatchedSSN": "SSN does not match",
+    "validCC": "Incomplete card details.",
+    "validCounty": "Please enter a valid county",
+    "zipcodeFormatUS": "Please format zip code correctly. e.g. XXXXX.",
+    "zipcode": "Please format postal code correctly, or if none exists, enter 'none'.",
+    "taxpayerId": "Please enter a valid Taxpayer ID.",
+    "noUsAddressHistory": "Please do not include any U.S. address history in this section.",
+    "dateWithinFiveYears": "Please do not include address history that concluded more than 5 years ago.",
+    "poBoxFormat": "Mailing address must be a street address, and cannot be a PO Box.",
+    "onlyNumbers": "Response can only include numbers.",
+    "lastName": "Please enter at least two alphabetic characters."
+  },
+  "i18nInternational": {
+    "validations": {
+      "dateFormat": "Please format date correctly. e.g. {{var}}.",
+      "dateAfter": "Please choose a date after {{var}}.",
+      "issueDateMustPrecedeExpirationDate": "Issue date must precede the expiration date.",
+      "signatureFormat": "Your signature must match the name you submitted: {{var}} {{var2}} {{var3}}."
+    },
+    "errorTitle": "Whoops!",
+    "landingPage": {
+      "welcome": "Welcome",
+      "contactInformation": "Contact Information",
+      "welcomeDesc": "{{var}} (the \"Company\") has engaged Checkr, Inc. to  obtain a consumer report and/or investigative consumer report, as defined in California, for employment purposes. Checkr Inc. will provide a background investigation as a pre-condition of your engagement with the Company and in compliance with applicable law.",
+      "outsideCountryDesc": "{{var}} ordered a background check for candidates living outside the United States, but you entered a U.S. address. Please confirm your current address. If you live in the United States, please contact {{var}} so that they can order the appropriate background check for candidates living in the United States.",
+      "personalInformation": "Personal Information",
+      "pleaseProvideLegalName": "Please provide your full legal name",
+      "dualCitizenship": "Dual citizens: Choose your preferred citizenship",
+      "addressHistory": "Address History",
+      "teslaWelcomeDesc1": "Congratulations on your conditional offer of employment with Tesla! All offers of employment with Tesla are conditioned upon your successful completion of all pre-employment requirements. All candidates must provide information and authorization for Tesla's Pre-Employment Screening Process. <br><br> Tesla’s Pre-Employment Assessment is conducted by a third-party vendor in compliance with applicable laws. Tesla has partnered with Checkr to conduct your pre-employment screening. <br><br> Disclosures from Tesla regarding this Pre-Employment Assessment will be provided, and your consent will be required before Checkr can begin processing your Pre-Employment Assessment. <br><br> The Pre-Employment Assessment requires that you complete this pre-employment screening application truthfully and accurately. Any attempts to withhold or falsify information will potentially disqualify you for any Tesla position. <br><br> If you fail to complete the authorization within 3 calendar days, the request will be canceled and you will need to contact Tesla at employmentscreening@tesla.com to have the authorization link reactivated. <br><br> Once you’ve submitted your information and authorization, you can check the status or view a copy of your report on the <a href='https://candidate.checkr.com' target='_blank'>Checkr Candidate Portal</a>. Please also see Checkr's Candidate Help Center for answers to frequently asked questions. <br><br> Thank you for your assistance and timely response to this request.",
+      "teslaWelcomeDesc2": "Congratulations on your conditional offer of employment with Tesla! All offers of employment with Tesla are conditioned upon your successful completion of all pre-employment requirements. All candidates must provide information and authorization for Tesla's Pre-Employment Screening Process. <br><br> Tesla’s Pre-Employment Assessment is conducted by a third-party vendor in compliance with applicable laws. Tesla has partnered with Checkr to conduct your pre-employment screening. <br><br> Disclosures from Tesla regarding this Pre-Employment Assessment will be provided, and your consent will be required before Checkr can begin processing your Pre-Employment Assessment. <br><br> The Pre-Employment Assessment requires that you complete this pre-employment screening application truthfully and accurately. Any attempts to withhold or falsify information will potentially disqualify you for any Tesla position. <br><br> If you fail to complete the authorization within 3 calendar days, the request will be canceled and you will need to contact Tesla at employmentscreening@tesla.com to have the authorization link reactivated. <br><br> Once you’ve submitted your information and authorization, you can check the status or view a copy of your report on the <a href='https://candidate.checkr.com' target='_blank'>Checkr Candidate Portal</a>. Please also see Checkr's Candidate Help Center for answers to frequently asked questions. <br><br> Thank you for your assistance and timely response to this request.",
+      "pleaseProvideAddressHistory": "Please provide all address history, including from other countries, for the past {{var}} years.",
+      "teslaWelcomeDesc": "Congratulations on your conditional offer of employment with Tesla! All offers of employment with Tesla are conditioned upon your successful completion of all pre-employment requirements. All candidates must provide information and authorization for Tesla's Pre-Employment Screening Process. <br><br> Tesla’s Pre-Employment Assessment is conducted by a third-party vendor in compliance with applicable laws. Tesla has partnered with Checkr to conduct your pre-employment screening. <br><br> Disclosures from Tesla regarding this Pre-Employment Assessment will be provided, and your consent will be required before Checkr can begin processing your Pre-Employment Assessment. <br><br> The Pre-Employment Assessment requires that you complete this pre-employment screening application truthfully and accurately. Any attempts to withhold or falsify information will potentially disqualify you for any Tesla position. <br><br> If you fail to complete the authorization within 3 calendar days, the request will be canceled and you will need to contact Tesla at employmentscreening@tesla.com to have the authorization link reactivated. <br><br> Once you’ve submitted your information and authorization, you can check the status or view a copy of your report on the <a href='https://candidate.checkr.com' target='_blank'>Checkr Candidate Portal</a>. Please also see Checkr's Candidate Help Center for answers to frequently asked questions. <br><br> Thank you for your assistance and timely response to this request.",
+      "messages": {
+        "pleaseProvideAddressHistory": "Please provide {{var}} years of address history",
+        "addressCannotShareStartDate": "Addresses cannot share start date",
+        "doNotIncludeHistory": "Do not include address history prior to {{var}} years",
+        "canHaveCurrentAddress": "Can only have 1 current address",
+        "pleaseProvideCurrentAddress": "Please provide current address",
+        "addressOverlaps": "Address from {{var}} to {{var2}} overlaps with address history ending at {{var3}}",
+        "addressGapHistory": "There is a gap in address history from {{var}} to {{var2}}"
+      }
+    },
+    "identityVerification": {
+      "identityVerification": "Identity Verification",
+      "redirectedToVendor": "Upon clicking 'Continue,' you will be directed to an external website to verify your identity in compliance with the Royal Canadian Mounted Police through Checkr's vendor, ModoHR.",
+      "pleaseHaveApprovedID": "Please have an approved Government ID (Passport / Drivers License) available for verification."
+    },
+    "intlSuccess": {
+      "thankYou": "Thank you for completing your background check application",
+      "identityVerificationInfo": "{{var}} will reach out to confirm your identity.  <a href='https://help.checkr.com/hc/en-us/articles/10249601186583' target='_blank' rel='noopener noreferrer'>Learn more.</a>",
+      "thanksForSubmitting": "Checkr will notify you when your background check is complete, or if any further action is needed on your part. View the <a href='{{var}}' target='_blank' rel='noopener noreferrer'>status of your background check</a> at anytime."
+    },
+    "navigation": {
+      "back": "戻る",
+      "save": "保存",
+      "submit": "送信",
+      "continue": "続行",
+      "submitAndContinue": "Submit and Continue"
+    },
+    "stateLogin": {
+      "cannotFindApplication": "We can’t find an application for you in our system. Please check the information you entered to log in. It must match the information used to start your background check application.",
+      "someTips": "Some tips:",
+      "checkYourEmailAddress": " Check your email address to be sure it’s the same you used for your application.",
+      "checkWithCompany": " Check with the company you applied with to confirm that they have submitted a request for a background check.",
+      "completeSavedInformation": "If you still can’t log in to complete your saved information, you can ",
+      "restartYourApplication": "re-start your application",
+      "resumeBackgroundCheck": "Resume Your Background Check Application",
+      "pleaseFillYourInformation": "Please fill in your information below and we will look for your application so you can continue where you left off.",
+      "personalInformation": "Personal Information",
+      "dualCitizens": "Dual citizens: Choose your preferred citizenship",
+      "continue": "続行",
+      "errorTitle": "Whoops!"
+    },
+    "stateToastSuccess": {
+      "youSavedApplication": "You saved your application",
+      "youCanResume": "You can resume your background check application at any time using the same link."
+    },
+    "screeningPage": {
+      "selectDocument": "Select a document",
+      "selectDocumentToProvide": "Select a document to provide*",
+      "documentLabel": "{{var}} and {{var2}}",
+      "documentLabel3": "{{var}}, {{var2}} and {{var3}}",
+      "documentLabel4": "{{var}}, {{var2}}, {{var3}} and {{var4}}"
+    },
+    "signature": {
+      "electronicSignature": "Electronic Signature",
+      "byTypingMyName": "By typing my name below, I consent to having Checkr Inc., its affiliates, and its third-party agents, collect and process certain Personal Data about me for the purposes of completing my background check.",
+      "fullName": "氏名"
+    },
+    "downloadAcknowledgement": {
+      "download": "ダウンロード"
+    },
+    "instructions": {
+      "download": "ダウンロード"
+    },
+    "requiredFieldAsterisk": {
+      "requiredField": "* denotes required field"
+    },
+    "fieldArrayWrapper": {
+      "noEmploymentHistory": "No employment history. By checking this, you certify that you have no employment to verify",
+      "noEducationHistory": "No education history. By checking this, you certify that you have no education to verify",
+      "recordSuspension": "By clicking this, you certify that you have never been convicted of a crime in Canada, for which you have not received a pardon or record suspension.",
+      "noOtherNames": "By clicking this, you certify that there are no other names that you have legally held (maiden name, aliases, etc).",
+      "addAnother": "Add another",
+      "remove": "削除",
+      "formValidationError": "Form Validation Error"
+    },
+    "addressField": {
+      "startDateMustPrecede": "Start date must precede end date",
+      "myCurrentAddress": "This is my current address",
+      "provideDateOrCheck": "Provide date or check \"This is my current address\"",
+      "stateAbbreviation": "Please enter US State as two-letter abbreviation"
+    },
+    "educationField": {
+      "startDateMustPrecede": "Start date must precede end date",
+      "myCurrentEducation": "I am currently a student here",
+      "provideDateOrCheck": "Provide both \"To\" date and \"Year Awarded\", or check \"I am currently a student here\"",
+      "measureOne": {
+        "errorMessageSwitchToManual": "Error Occurred, please continue with manual document upload",
+        "m1ExitMessageSwitchToManual": "",
+        "m1DataSourceNotSupportedMessageSwitchToManual": "Apologies your university is not supported, please continue with manual document upload",
+        "m1CredsNotSupportedMessageSwitchToManual": "Problem with Credentials, please continue with manual document upload",
+        "qualifiedTitle": "This country qualifies for quick verification",
+        "m1RequiredTime": "30-90 seconds",
+        "m1LoginMessage": "Log in using your school username and password to quickly verify your education.",
+        "m1LearnMoreModalButton": "詳細",
+        "m1LoginButton": "Go to log in",
+        "manualInfoTitle": "Prefer to enter information yourself?",
+        "manualInfoButton": "Go to enter information",
+        "m1LearnMoreModal": {
+          "title": "Verify your education faster",
+          "howItWorks": "How it works",
+          "description": "Checkr has partnered with MeasureOne, a consumer data verification company, to make verifying your education quick and easy. We’ll only collect information used to verify your education.",
+          "leftTitle": "Connect your educational institution",
+          "leftDescription": "You’ll access your education history by logging in through your school’s portal.",
+          "rightTitle": "Review and Verify",
+          "rightDescription": "You’ll review the information we’ve verified and approve what is shared."
+        },
+        "m1ReviewResultsWaitingModal": {
+          "headerTitle": "Review Results",
+          "waitingMessageTitle": "We’re verifying your education",
+          "waitingMessageDescription": "Hold tight while we gather the rest of your information. This can take a few moments.",
+          "cancelAndEnterInformationButton": "Cancel and enter information"
+        },
+        "m1TimerExpiredModal": {
+          "headerTitle": "Verification status",
+          "timerExpiredMessageTitle": "Unable to verify",
+          "timerExpiredDescription": "Unfortunately, we couldn’t verify your information. You can try again, or enter your school information yourself instead.",
+          "enterInformationButton": "Enter information"
+        },
+        "m1ReviewResultsReceivedModal": {
+          "resultsRecievedTitle": "Your information has been verified",
+          "resultsIncompleteRecievedTitle": "Unable to find some information",
+          "resultsRecievedDescription": "Please review the following information. If something isn’t correct, you’ll need to enter your school information yourself.",
+          "resultsIncompleteRecievedDescription": "Unfortunately, we couldn’t find some of your information. Please enter your school information instead.",
+          "cancelAndEnterInformationButton": "Cancel and enter information",
+          "schoolOrUniversity": "School or university",
+          "startDate": "Start date",
+          "endDate": "終了日",
+          "status": "ステータス",
+          "degree": "Degree",
+          "major": "Major",
+          "enterInformationButton": "Enter Information",
+          "acceptButton": "同意"
+        },
+        "m1SchoolNotSupportedModal": {
+          "headerTitle": "Search result",
+          "schoolNotSupportedMessageTitle": "Unable to find school",
+          "schoolNotSupportedMessageDescription": "Unfortunately, we couldn’t find your school. Please enter your school information yourself instead.",
+          "enterInformationButton": "Enter information"
+        }
+      }
+    },
+    "employmentField": {
+      "startDateMustPrecede": "Start date must precede end date",
+      "companyContactInfo": "Company Contact Information",
+      "doNotContactThisEmployer": "Do not contact this employer. <span style=\"font-weight:bold\">By checking this, you will be required to provide document proof of your employment.</span>",
+      "employmentInfo": "Employment Information",
+      "myCurrentPosition": "I currently work here",
+      "pleaseProvideInformation": "Please provide information to verify your employer",
+      "pleaseProvideProof": "Please provide written proof of employment. Accepted documents include:",
+      "provideDateOrCheck": "Provide date or check \"I currently work here\"",
+      "governmentIssued": "Government issued documents (such as paystubs or tax documents).",
+      "employerIssued": "Employer issued letter on the company letter head.",
+      "documentsMustInclude": "Documents must include the employer name and be in English when possible. They will be used only for verification purposes."
+    },
+    "form": {
+      "disclosure": "Disclosure",
+      "disclosureContent": "<h1 id='disclosure-regarding-background-investigation'>Disclosure Regarding Background Investigation</h1> <p>Checkr (the “Company”) may obtain information about you from a third party consumer reporting agency for employment purposes. Thus, you may be the subject of a “consumer report” which may include information about your character, general reputation, personal characteristics, and/or mode of living. These reports may contain information regarding your credit history, criminal history, motor vehicle records (“driving records”), verification of your education or employment history, or other background checks.</p> <p>You have the right, upon written request made within a reasonable time, to request whether a consumer report has been run about you and to request a copy of your report. These searches will be conducted by <strong>Checkr, Inc., One Montgomery Street, Suite 2400, San Francisco, CA 94104 | support@checkr.com | <a href='https://candidate.checkr.com' target='_blank'>https://candidate.checkr.com</a>.</strong></p>",
+      "disclosureCheckLabel": "I acknowledge receipt of the Disclosure Regarding Background Investigation and certify that I have read and understand this document.",
+      "legalAgreementLabel": "Please confirm you have read and agree to the above document"
+    },
+    "saveStateForm": {
+      "header": {
+        "aboutUs": "当社について",
+        "contactUs": "お問い合わせ",
+        "checkr": "Checkr.com"
+      }
+    },
+    "identityDocument": {
+      "mustUploadSecondImage": "For {{var}} you must upload a second image.",
+      "mayUploadSecondImage": "If they are on separate pages, you may upload a second image.",
+      "mustBeValid": "{{var}} must be <b>valid and unexpired</b>, and your uploaded image must include <b>both your photo and your signature</b>. {{var2}}",
+      "documents": "Documents",
+      "frontOfId": "Front of ID",
+      "backOfId": "Back of ID",
+      "signaturePage": "Signature page (if on different page than photo)",
+      "plural": {
+        "passport": "Passports",
+        "nationalId": "National IDs",
+        "driverLicense": "Driver licenses",
+        "voterRegistration": "Voter registrations",
+        "residencePermit": "Residence permits"
+      }
+    },
+    "identityConfirmation": {
+      "title": "Identity Confirmation",
+      "almostThere": "Almost there!",
+      "description": "<h2>Almost there!</h2> <p>Local law requires that you confirm your identity in order to start running your background check.</p><br> <p>You can get your completed report faster by doing this online now with our secure, UK-approved vendor, <b>Yoti</b>. It takes an average of 5 minutes to complete. Please complete within 24 hours. Or, you can choose to confirm your identity later in person.  <a href='https://help.checkr.com/hc/en-us/articles/10249601186583' target='_blank'>Learn more</a></p>"
+    },
+    "footer": {
+      "checkrPrivacyPolicyUrl": "https://checkr.com/privacy-policy",
+      "checkrTermsOfServiceUrl": "https://checkr.com/terms-of-service",
+      "checkrFaqUrl": "https://checkr.com/my-background-check"
+    },
+    "closeNotification": "Close Notification",
+    "pleaseViewOrDownloadHere": "Please view on a desktop or <a href={{var}}>download here</a>."
+  },
+  "errors": {
+    "internalServerErrorOurEngineersHaveBeenNotified": "Internal Server Error, our engineers have been notified.",
+    "internalServerErrorOurEngineersHaveBeenNotifiedNumber": "Internal Server Error, our engineers have been notified.: {{var}}",
+    "invitationNotFound": "Invitation not found",
+    "invitationHasExpired": "Invitation has expired",
+    "invitationHasAlreadyBeenCompleted": "Invitation has already been completed",
+    "employerSalaryIsNotANumber": "Employer salary is not a number",
+    "employerStartDateCantBeBlank": "Employer start date can't be blank",
+    "employerStartDateMustBeRealistic": "Employer start date must be realistic",
+    "employerEndDateMustBeRealistic": "Employer end date must be realistic",
+    "employerEndDateMustBeEqualToOrAfterStartDate": "Employer end date must be equal to or after start date",
+    "schoolEndDateMustBeAfterStartDate": "School end date must be after start date",
+    "candidateFirstNameNameContainsInvalidCharacters": "Candidate first name contains invalid characters",
+    "failureSavingYourApplication": "Failure saving your application",
+    "missingRequiredFields": "Missing required fields {{var}}",
+    "candidateLastNameNameContainsInvalidCharacters": "Candidate last name contains invalid characters",
+    "candidateLastNameMustContainAtLeast2AlphaCharacters": "Candidate last name must contain at least 2 alpha characters",
+    "failedToUpdateCandidateLocale": "Failed to update candidate locale",
+    "failedToUpdate": "更新に失敗しました",
+    "candidateMiddleNameNameContainsInvalidCharacters": "Candidate middle name contains invalid characters",
+    "candidateAddressCityCantBeBlank": "Candidate address city can't be blank",
+    "candidateAddressCountryCodeCantBeBlank": "Candidate address country code can't be blank",
+    "candidateAddressCountryCodeIsNotIncludedInTheList": "Candidate address country code is not included in the list",
+    "candidateAddressCountryCodeIsTheWrongLengthShouldBeNumberCharacters": "Candidate address country code is the wrong length (should be {{var}} characters)",
+    "candidateAddressStateCantBeBlank": "Candidate address state can't be blank",
+    "candidateAddressStreetCantBeBlank": "Candidate address street can't be blank",
+    "candidateLastNameMustContainAtLeastNumberAlphaCharacters": "Candidate last name must contain at least {{var}} alpha characters",
+    "candidateMustBeAtLeastYearsOld": "Candidate must be at least {{var}} years old",
+    "idvNotFound": "Identity verification page not found",
+    "unableToUpdateCandidateTask": "Unable to update candidate task",
+    "candidateTaskIsAlreadyCompleted": "Candidate Task is already completed"
+  }
+}
