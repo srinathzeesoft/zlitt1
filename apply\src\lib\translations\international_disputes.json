@@ -1,0 +1,143 @@
+{
+  "sections": [
+    {
+      "name": "::Recherche internationale de liste de surveillance mondiale:: test check test test",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::Ce dossier ne me concerne pas ou ne m’appartient pas::",
+          "title": "::Ce dossier ne me concerne pas ou ne m’appartient pas::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p>Il est possible que ce dossier appartienne à une personne portant le même nom et ayant la même date de naissance que vous.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_wrong_person::"
+          ],
+          "wrongPersonConfirmation": "::vrai::"
+        },
+        {
+          "name": "::Ce dossier est inexact ou a été mis à jour::",
+          "title": "::Ce dossier est inexact ou a été mis à jour::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_inaccurate::",
+            "::field_required::"
+          ]
+        },
+        {
+          "name": "::Je n’ai pas été condamné::",
+          "title": "::Je n’ai pas été condamné::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_inaccurate::",
+            "::field_required::"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "::Vérification internationale d’études::",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::J’ai entré des informations erronées ou j’ai de nouvelles informations::",
+          "title": "::J’ai entré des informations erronées ou j’ai de nouvelles informations::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents. Veuillez fournir ces informations à la partie avec laquelle vous avez postulé.</p>::",
+          "labels": []
+        }
+      ]
+    },
+    {
+      "name": "::Validation internationale de documents d’identité::",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::J’ai entré des informations erronées ou j’ai de nouvelles informations::",
+          "title": "::J’ai entré des informations erronées ou j’ai de nouvelles informations::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents. Veuillez fournir ces informations à la partie avec laquelle vous avez postulé.</p>::",
+          "labels": []
+        }
+      ]
+    },
+    {
+      "name": "::Vérification internationale d’emploi::",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::J’ai de nouvelles informations sur mes antécédents professionnels::",
+          "title": "::J’ai de nouvelles informations sur mes antécédents professionnels::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents. Veuillez nous fournir les informations spécifiques mises à jour ci-dessous.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_employment::"
+          ]
+        },
+        {
+          "name": "::J’ai entré des informations erronées et je souhaite les corriger::",
+          "title": "::J’ai entré des informations erronées et je souhaite les corriger::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents. Veuillez fournir ces informations à la partie avec laquelle vous avez postulé.</p>::",
+          "labels": []
+        }
+      ]
+    },
+    {
+      "name": "::Recherches internationales de médias défavorables::",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::Ce dossier ne me concerne pas ou ne m’appartient pas::",
+          "title": "::Ce dossier ne me concerne pas ou ne m’appartient pas::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p>Il est possible que ce dossier appartienne à une personne portant le même nom et ayant la même date de naissance que vous.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_wrong_person::"
+          ],
+          "wrongPersonConfirmation": "::vrai::"
+        },
+        {
+          "name": "::Ce dossier est inexact ou a été mis à jour::",
+          "title": "::Ce dossier est inexact ou a été mis à jour::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_inaccurate::",
+            "::field_required::"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "::Recherches pénales internationales::",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::Ce dossier ne me concerne pas ou ne m’appartient pas::",
+          "title": "::Ce dossier ne me concerne pas ou ne m’appartient pas::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p>Il est possible que ce dossier appartienne à une personne portant le même nom et ayant la même date de naissance que vous.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_wrong_person::"
+          ],
+          "wrongPersonConfirmation": "::vrai::"
+        },
+        {
+          "name": "::Ce dossier est inexact ou a été mis à jour::",
+          "title": "::Ce dossier est inexact ou a été mis à jour::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre pièce d’identité émise par le gouvernement.</span></p>::",
+          "labels": [
+            "::reason_inaccurate::",
+            "::field_required::"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "::Rapport international sur les véhicules à moteur::",
+      "labels": [],
+      "articles": [
+        {
+          "name": "::Ce dossier est inexact ou a été mis à jour::",
+          "title": "::Ce dossier est inexact ou a été mis à jour::",
+          "body": "::<p>Merci d’avoir contacté Checkr concernant votre rapport d’antécédents.</p>\n<p><span style=\"font-weight: 400;\">En plus du dossier sélectionné ci-dessus, veuillez fournir des détails spécifiques sur </span><strong>tout autre dossier</strong><span style=\"font-weight: 400;\"> que vous souhaitez contester, ainsi que la ou les raisons pour lesquelles vous pensez que le dossier est inexact. Aucun dossier non identifié dans ce formulaire d’admission ne sera réexaminé. </span></p>\n<p><span style=\"font-weight: 400;\">Bien que cela ne soit pas obligatoire, nous vous encourageons à soumettre toute documentation que vous pourriez avoir sur les cas contestés. Veuillez téléverser une copie de votre permis de conduire actuel.</span></p>::",
+          "labels": [
+            "::reason_inaccurate::"
+          ]
+        }
+      ]
+    }
+  ]
+}
